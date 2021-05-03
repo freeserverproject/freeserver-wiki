@@ -40,8 +40,8 @@ collections:
               required: false,
             }
           - { label: "Body", name: body, widget: markdown, required: false }
-  - label: "Page"
-    name: "pages"
+  - label: "Post"
+    name: "posts"
     folder: "docs/post"
     create: true
     fields:
