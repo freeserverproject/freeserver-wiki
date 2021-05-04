@@ -45,7 +45,6 @@ collections:
   - label: "固定ページ"
     name: "fixedPages"
     folder: "docs"
-    filter: { field: "home", value: false }
     create: true
     fields:
       - { label: "Home", name: "home", widget: "hidden", default: false }
