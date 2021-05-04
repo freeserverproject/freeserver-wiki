@@ -51,8 +51,8 @@ collections:
       - { label: "Home", name: "home", widget: "hidden", default: false }
       - { label: "ページ名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
-      - { label: "本文", name: "body", widget: "markdown" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
   - label: "運営一覧"
     name: "admins"
     folder: "docs/admins"
@@ -60,8 +60,8 @@ collections:
     fields:
       - { label: "ユーザー名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
-      - { label: "本文", name: "body", widget: "markdown" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
   - label: "イベント"
     name: "events"
     folder: "docs/events"
@@ -69,5 +69,5 @@ collections:
     fields:
       - { label: "イベント名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
-      - { label: "本文", name: "body", widget: "markdown" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
