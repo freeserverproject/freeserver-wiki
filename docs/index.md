@@ -12,36 +12,36 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 ## 目次
 (太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
 ### お初さん向け
-- [**初めての方へ**](beginners-guide)
-- [**Discordコミュニティについて**](discord)
+- [**初めての方へ**] (beginners-guide)
+- [**Discordコミュニティについて**] (discord)
 ### 規約関係
-- [**利用規約**](terms)
-- [留置所(Jail)](jail)
-- [**許可Mod**](allow-mods)
-- [規約違反するとどうなるの？](terms/violation)
-- [**違反を目撃してしまったらどうしたらいいの？**](terms/violation/look)
+- [**利用規約**] (terms)
+- [留置所(Jail)] (jail)
+- [**許可Mod**] (allow-mods)
+- [規約違反するとどうなるの？] (terms/violation)
+- [**違反を目撃してしまったらどうしたらいいの？**] (terms/violation/look)
 ### 追加アイテム
-- [モンスターボール](item/monsterbowl)
-- [魔法のほうき](item/Magicbroom)
-- [各種魚](item/addfish)
-- [フィギュア](item/figure)
-- [バンドル](item/bundle)
+- [モンスターボール] (item/monsterbowl)
+- [魔法のほうき] (item/Magicbroom)
+- [各種魚] (item/addfish)
+- [フィギュア] (item/figure)
+- [バンドル] (item/bundle)
 ### イベント
-- [Trouble in Crafter Town](event/jinro) (人狼,TCT)
-- [釣り大会](event/fishingtournament)
+- [Trouble in Crafter Town] (event/jinro) (人狼,TCT)
+- [釣り大会] (event/fishingtournament)
 ### プラグイン
-- [**WorldGuard**](plugins/worldguard) (土地保護PL)
-- [**BlockLocker**](plugins/blocklocker) (簡易保護PL)
+- [**WorldGuard**] (plugins/worldguard) (土地保護PL)
+- [**BlockLocker**] (plugins/blocklocker) (簡易保護PL)
 ### 権限・運営関係
-- [**権限**](permissions)
-- [**運営リスト**](admins)
-- [**運営募集情報**](recruitinfo)
-- [Wikiチームからのご挨拶](from-wikiteam)
+- [**権限**] (permissions)
+- [**運営リスト**] (admins)
+- [**運営募集情報**] (recruitinfo)
+- [Wikiチームからのご挨拶] (from-wikiteam)
 ### その他
-- [**投票**](vote)
-- [このプロジェクトについて](about-project)
-- [このサーバーについて](about-server)
-- [このWikiについて](about-wiki).
+- [**投票**] (vote)
+- [このプロジェクトについて] (about-project)
+- [このサーバーについて] (about-server)
+- [このWikiについて] (about-wiki).
 ## 関連リンク
 
 | リンク名 | リンク |
