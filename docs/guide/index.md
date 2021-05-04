@@ -92,5 +92,5 @@ Pete Davis
 
 Modify by tsutoringo
 
-- Github: [@petedavisdev](https://github.com/tsutoringo)
-- Twitter: [@petedavisdev](https://twitter.com/tsutoringo)
+- Github: [@tsutoringo](https://github.com/tsutoringo)
+- Twitter: [@tsutoringo](https://twitter.com/tsutoringo)
