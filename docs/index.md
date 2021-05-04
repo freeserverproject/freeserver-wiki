@@ -1,18 +1,56 @@
 ---
-home: true
-heroText: VitePress + Netlify CMS
-tagline: A starter template for your JAMstack websits
-actionText: Get Started →
-actionLink: /guide/
-features:
-  - details: Use Netlify CMS to create and manage your content within your Git repo.
-    title: Git-powered content
-  - details: Create your own custom theme and use Vue components in your content.
-    title: Vue-powered development
-  - details: >-
-      VitePress is VuePress' little brother, built on top of Vite.
-      See more > https://vitepress.vuejs.org/
-    title: Too fast
-footer: Template maintained by tsutoringo | MIT Licensed
+tagline: Official Wiki
+footer: ©FREESERVER Project 
 ---
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/tsutoringo/VitePress-with-Netlify-CMS&amp;stack=cms" style="display:block; text-align:center"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
+# ようこそ FREESERVER Wikiへ :tada:
+
+FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサーバー**についてまとめられています!
+
+ご不明な点等ありましたらこちらを参照ください!!
+
+記事は，[Wiki Editor](http://wiki.freeserver.pro/admins#Wiki%20Editor)[現在数2人][など](about-wiki#%E7%B7%A8%E9%9B%86%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88)により随時拡充中です！
+## 目次
+(太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
+### お初さん向け
+- [**初めての方へ**](beginners-guide)
+- [**Discordコミュニティについて**](discord)
+### 規約関係
+- [**利用規約**](terms)
+- [留置所(Jail)](jail)
+- [**許可Mod**](allow-mods)
+- [規約違反するとどうなるの？](terms/violation)
+- [**違反を目撃してしまったらどうしたらいいの？**](terms/violation/look)
+### 追加アイテム
+- [モンスターボール](item/monsterbowl)
+- [魔法のほうき](item/Magicbroom)
+- [各種魚](item/addfish)
+- [フィギュア](item/figure)
+- [バンドル](item/bundle)
+### イベント
+- [Trouble in Crafter Town](event/jinro) (人狼,TCT)
+- [釣り大会](event/fishingtournament)
+### プラグイン
+- [**WorldGuard**](plugins/worldguard) (土地保護PL)
+- [**BlockLocker**](plugins/blocklocker) (簡易保護PL)
+### 権限・運営関係
+- [**権限**](permissions)
+- [**運営リスト**](admins)
+- [**運営募集情報**](recruitinfo)
+- [Wikiチームからのご挨拶](from-wikiteam)
+### その他
+- [**投票**](vote)
+- [このプロジェクトについて](about-project)
+- [このサーバーについて](about-server)
+- [このWikiについて](about-wiki).
+## 関連リンク
+
+| リンク名 | リンク |
+| ---- | ---- |
+| オフィシャルサイト | https://www.freeserver.pro/ |
+| Japan Minecraft Servers | https://www.freeserver.pro/ |
+| Monocraft | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U |
+| 利用規約 | https://www.freeserver.pro/%e3%83%ab%e3%83%bc%e3%83%ab%e3%83%bb%e5%90%84%e7%a8%ae%e6%a1%88%e5%86%85/ <br> https://bit.ly/2NoS0Hu
+| 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
+
+## Discordウィジェット
+<iframe src="https://discord.com/widget?id=393963617604861952&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
