@@ -2,22 +2,22 @@
 title: tsutoringo
 description: tsutoringoの紹介ページ
 ---
-# tsutoringo
-Hi. Im tsutoringo ;)
 
-I'm weak programmer.
+## About
 
-I wish you would know me.
+Hi. I'm tsutoringo ;) <br>
+I'm weak programmer. <br>
+I wish you would know me.<br>
 
-# My skills
+## My skills
 ### Knowledge languages
-
-HTML, JS, Node.js, Vue
+HTML, JS, CSS, Node.js, Vue
 
 ### Other
-Studying Firebase now
+Studying about Netlify and VuePress, VitePress.
 
-# Contact me
+## Contact me
+
 [Twitter](https://twitter.com/tsutoringo)
 
 Discord tsutoringo#7933
