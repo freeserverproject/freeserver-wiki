@@ -66,7 +66,7 @@ npm run dev
 
 ### Build and deploy
 
-``
+```
 npm run build
 ```
 
