@@ -53,6 +53,15 @@ collections:
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
+  - label: "アイテム"
+    name: "item"
+    folder: "docs/item"
+    create: true
+    fields:
+      - { label: "アイテム名(英語が良き)", name: "title", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
   - label: "運営一覧"
     name: "admins"
     folder: "docs/admins"
@@ -64,7 +73,7 @@ collections:
       - { label: "本文", name: "body", widget: "markdown" }
   - label: "イベント"
     name: "events"
-    folder: "docs/events"
+    folder: "docs/event"
     create: true
     fields:
       - { label: "イベント名", name: "title", widget: "string" }
