@@ -80,7 +80,7 @@ After build the folder to deploy is `docs/.vitepress/dist`
 
 ## Contribute
 
-This template is default VitePress - so please give your [skills](https://github.com/vuejs/vuepress) to the [VuePress team](https://github.com/vuejs/vitepress).
+This template is default VitePress - so please give your [skills](https://github.com/vuejs/vitepress) or [money](https://opencollective.com/vuejs) to the [VitePress team](https://github.com/vuejs/vitepress).
 
 ## Author
 
