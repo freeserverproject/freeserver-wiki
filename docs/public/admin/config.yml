@@ -45,13 +45,14 @@ collections:
   - label: "固定ページ"
     name: "fixedPages"
     folder: "docs"
-    filter: {field: "home", value: false}
+    filter: { field: "home", value: false }
     create: true
     fields:
       - { label: "Home", name: "home", widget: "hidden", default: false }
       - { label: "ページ名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "本文", name: "body", widget: "markdown" }
+      - { label: "サイドバー", name: "sidebar", widget: "Boolean", default: true }
   - label: "運営一覧"
     name: "admins"
     folder: "docs/admins"
@@ -60,6 +61,7 @@ collections:
       - { label: "ユーザー名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "本文", name: "body", widget: "markdown" }
+      - { label: "サイドバー", name: "sidebar", widget: "Boolean", default: true }
   - label: "イベント"
     name: "events"
     folder: "docs/events"
@@ -68,3 +70,4 @@ collections:
       - { label: "イベント名", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "本文", name: "body", widget: "markdown" }
+      - { label: "サイドバー", name: "sidebar", widget: "Boolean", default: true }
