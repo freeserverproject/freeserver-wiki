@@ -42,11 +42,27 @@ collections:
               required: false,
             }
           - { label: "Body", name: body, widget: markdown, required: false }
-  - label: "Post"
-    name: "posts"
-    folder: "docs/post"
+  - label: "固定ページ"
+    name: "fixedPages"
+    folder: "docs"
     create: true
     fields:
-      - { label: "Title", name: "title", widget: "string" }
-      - { label: "Meta description", name: "description", widget: "string" }
-      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "ページ名", name: "userName", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+  - label: "運営一覧"
+    name: "admins"
+    folder: "docs/admins"
+    create: true
+    fields:
+      - { label: "ユーザー名", name: "userName", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
+  - label: "イベント"
+    name: "events"
+    folder: "docs/events"
+    create: true
+    fields:
+      - { label: "イベント名", name: "eventName", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "本文", name: "body", widget: "markdown" }
