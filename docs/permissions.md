@@ -19,13 +19,13 @@ NewComerの略（新参者ってこと）。
 [公式Discord](https://discord.gg/dSZkk4D)での認証が済んでいる鯖民。権限制限が解除されている。
 
 ### 運営権限
-#### [**Owner**](admins#Owner)
+#### [**Owner**](admins/#Owner)
 このサーバーのオーナーです。唯一サーバーのコンソール・鯖機に直接アクセスできます。
 
-#### [**SubOwner**](admins#SubOwner)
+#### [**SubOwner**](admins/#SubOwner)
 このサーバーの副オーナーです。コンソールを利用できます。
 
-#### [**Admin**](admins/Admin)
+#### [**Admin**](admins/)
 普通の運営ですが，殆ど各運営に専門職としての役職があります。
 ## Discord権限リスト
 ### 運営権限
