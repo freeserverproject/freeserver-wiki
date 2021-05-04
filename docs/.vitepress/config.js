@@ -1,12 +1,12 @@
 module.exports = {
-	title: 'VitePress template',
-	description: 'A JAMstack website template with the VitePress and Netlify CMS config.',
+	title: 'FREESERVER Wiki!',
+	description: 'FREESERVER公式のWiki',
 	themeConfig: {
-		repo: 'tsutoringo/VitePress-with-Netlify-CMS',
+		repo: 'freeserverproject/freeserver-wiki',
 		docsDir: 'docs',
 		editLinks: true,
-		editLinkText: 'Edit this page on GitHub',
-		lastUpdated: 'Last Updated',
+		editLinkText: 'このページをGitHubで編集する',
+		lastUpdated: '最終更新日',
 		nav: [
 			{ text: 'Home', link: '/' },
 			{ text: 'Guide', link: '/guide/' },
