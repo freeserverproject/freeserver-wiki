@@ -11,7 +11,7 @@ description: "魔法のほうき について"
 
 ## 乗り方
 
-![](/attachment/5faf89f569ba25004aa5d23b)
+<!-- ![](/attachment/5faf89f569ba25004aa5d23b) -->
 
 手に持ってブロックに向かって右クリックでほうきを置きます
 

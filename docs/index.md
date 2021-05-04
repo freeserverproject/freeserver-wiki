@@ -34,7 +34,7 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 - [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
 ### 権限・運営関係
 - [**権限**](permissions)
-- [**運営リスト**](admins)
+- [**運営リスト**](admins/)
 - [**運営募集情報**](recruit-info)
 - [Wikiチームからのご挨拶](from-wikiteam)
 ### その他

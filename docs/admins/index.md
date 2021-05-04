@@ -39,4 +39,4 @@ description: 運営リスト
 - <mc-avatar user="ea340bb4e5944837859815fe77c6cf30"></mc-avatar>[Nikuzuki](https://wiki.freeserver.pro/user/nikuzuki)[Wiki Editor][2020/12/08]
 ### STAFF
 (現在数:0人)[**リスト**][]内は運営鯖加入日時
-##### [**絶賛運営募集中！**](recruitinfo)
+##### [**絶賛運営募集中！**](/recruit-info)
