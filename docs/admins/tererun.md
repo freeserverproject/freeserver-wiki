@@ -4,7 +4,8 @@ description: てれるんの自己紹介
 sidebar: true
 ---
 <p class="profile-img" align="center">
- <img src="https://github.com/tererun/tererun/blob/main/sec_1.svg" width=800>
+
+![](https://raw.githubusercontent.com/tererun/tererun/fdce21ef14ed8a75b669cd2bb235a21bd84def91/sec_1.svg)
 </p>
 
 # Hey guys!
