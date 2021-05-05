@@ -56,4 +56,4 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
 
 ## Discordウィジェット
-<iframe src="https://discord.com/widget?id=393963617604861952&theme=dark" width="500" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<discord-widget url="https://discord.com/api/guilds/393963617604861952/widget.json"/>
