@@ -1,7 +1,7 @@
 ---
 title: tsutoringo
 description: tsutoringoの紹介ページ
-sidebar: true
+sidebar: false
 ---
 
 ## About
