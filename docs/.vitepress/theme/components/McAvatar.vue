@@ -1,5 +1,5 @@
 <template>
-	<img :src="avatarURL" alt="minecraft-avatar" loading="lazy" :width="width" :height="height" class="mc-avatar">
+	<img :style="{width: `${width}px`, height: `${height}px`}" :src="avatarURL" alt="minecraft-avatar" loading="lazy" :width="width" :height="height" class="mc-avatar">
 </template>
 <script>
 export default {
@@ -19,7 +19,7 @@ export default {
 		},
 		height: {
 			type: String,
-			default: '32'
+			default: ''
 		}
 	},
 	computed: {
@@ -32,5 +32,6 @@ export default {
 <style scoped>
 img {
 	image-rendering: pixelated;
+	vertical-align:top;
 }
 </style>
