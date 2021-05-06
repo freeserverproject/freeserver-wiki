@@ -1,6 +1,7 @@
 ---
-title: Broom
-description: "魔法のほうき について"
+title: 魔法のほうき
+description: 魔法のほうき について
+sidebar: true
 ---
 
 # 魔法のほうき
