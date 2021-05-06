@@ -48,7 +48,7 @@ collections:
     create: true
     fields:
       - { label: "Home", name: "home", widget: "hidden", default: false }
-      - { label: "ページ名", name: "title", widget: "string" }
+      - { label: "タイトル(新規記事は英語が良き)", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
@@ -57,7 +57,7 @@ collections:
     folder: "docs/item"
     create: true
     fields:
-      - { label: "アイテム名(英語が良き)", name: "title", widget: "string" }
+      - { label: "アイテム名(新規記事は英語が良き)", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
@@ -66,7 +66,7 @@ collections:
     folder: "docs/admins"
     create: true
     fields:
-      - { label: "ユーザー名", name: "title", widget: "string" }
+      - { label: "ユーザー名(新規記事は英語が良き)", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
@@ -75,7 +75,25 @@ collections:
     folder: "docs/event"
     create: true
     fields:
-      - { label: "イベント名", name: "title", widget: "string" }
+      - { label: "イベント名(新規記事は英語が良き)", name: "title", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
+  - label: "プラグイン"
+    name: "plugins"
+    folder: "docs/plugin"
+    create: true
+    fields:
+      - { label: "プラグイン名(新規記事は英語が良き)", name: "title", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
+  - label: "規約類"
+    name: "terms"
+    folder: "docs/terms"
+    create: true
+    fields:
+      - { label: "タイトル(新規記事は英語が良き)", name: "title", widget: "string" }
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
