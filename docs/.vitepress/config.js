@@ -8,8 +8,8 @@ module.exports = {
 		editLinkText: 'このページをGitHubで編集する',
 		lastUpdated: '最終更新日',
 		nav: [
-			{ text: 'Home', link: '/' },
-			{ text: 'Guide', link: '/guide/' },
+			{ text: 'トップ', link: '/' },
+			{ text: '初心者指南', link: '/beginners-guide' },
 		]
 	}
 }
