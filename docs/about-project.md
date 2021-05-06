@@ -1,5 +1,5 @@
 ---
-title: "About FREESERVER Project"
+title: "FREESERVER Projectについて"
 description: "FREESERVER Project について"
 ---
 

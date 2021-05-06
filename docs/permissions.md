@@ -1,6 +1,6 @@
 ---
-title: Permissions
-description: 権限リスト
+title: 権限一覧
+description: FREESERVER内にある権限一覧です
 ---
 
 # 権限リスト

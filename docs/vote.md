@@ -1,6 +1,6 @@
 ---
-title: Vote
-description: 投票
+title: 投票
+description: FREESERVERへの投票の方法などが書いてあります！
 ---
 
 # 投票

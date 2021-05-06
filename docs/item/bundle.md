@@ -1,5 +1,5 @@
 ---
-title: Bundle
+title: バンドル
 description: "バンドル について"
 ---
 

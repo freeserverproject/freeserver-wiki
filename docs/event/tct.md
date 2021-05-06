@@ -1,5 +1,5 @@
 ---
-title: Trouble in Crafter Town
+title: Trouble in Crafter Town(人狼)
 description: TCT について
 sidebar: true
 ---

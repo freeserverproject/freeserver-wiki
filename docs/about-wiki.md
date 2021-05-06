@@ -1,6 +1,6 @@
 ---
-title: "About this wiki"
-description: "この Wiki について"
+title: "このWikiについて"
+description: "このFREESERVER Wiki!について"
 ---
 
 # このWikiについて

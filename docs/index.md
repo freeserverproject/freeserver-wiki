@@ -1,8 +1,6 @@
 ---
-tagline: Official Wiki
-footer: ©FREESERVER Project
 title: トップページ
-description: ようこそ FREESERVER Wikiへ
+description: "ようこそ FREESERVER Wikiへ"
 sidebar: true
 ---
 # ようこそ FREESERVER Wikiへ :tada:

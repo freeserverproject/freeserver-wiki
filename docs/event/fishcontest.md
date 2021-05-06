@@ -1,5 +1,5 @@
 ---
-title: Fishcontest
+title: 釣り大会
 description: "釣り大会 について"
 ---
 

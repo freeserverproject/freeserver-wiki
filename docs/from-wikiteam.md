@@ -1,5 +1,5 @@
 ---
-title: "From wiki team"
+title: "ウィキチームからのお知らせ"
 description: "Wiki チームからのご挨拶"
 ---
 

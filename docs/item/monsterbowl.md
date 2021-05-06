@@ -1,5 +1,5 @@
 ---
-title: "Monster Bowl"
+title: モンスターボウル
 description: "モンスターボウル について"
 ---
 

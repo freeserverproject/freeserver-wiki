@@ -1,6 +1,6 @@
 ---
-title: "About this server"
-description: このサーバーについて
+title: "フリーサーバーについて"
+description: FREESERVERについて詳細な情報が書かれています
 ---
 
 # このサーバーについて

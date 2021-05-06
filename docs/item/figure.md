@@ -1,5 +1,5 @@
 ---
-title: Figure
+title: フィギュア
 description: "フィギュア について"
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Recruit info"
-description: 運営募集情報
+title: "運営募集情報"
+description: 運営に応募するための手順が書いてあります
 ---
 
 # 運営募集情報
