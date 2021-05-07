@@ -3,7 +3,9 @@
   "version": "0.1.0",
   "description": "A website starter template with the default vitepress theme and Netlify CMS config",
   "main": "index.js",
-  "dependencies": {},
+  "dependencies": {
+    "markdown-it-multimd-table": "^4.1.0"
+  },
   "devDependencies": {
     "vitepress": "^0.13.2"
   },

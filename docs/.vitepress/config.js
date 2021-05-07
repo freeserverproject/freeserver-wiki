@@ -11,5 +11,12 @@ module.exports = {
 			{ text: 'トップ', link: '/' },
 			{ text: '初心者指南', link: '/beginners-guide' },
 		]
+	},
+	markdown: {
+		config: (md) => {
+			md.use(require('markdown-it-multimd-table'), {
+				rowspan: true,
+			});
+		}
 	}
 }
