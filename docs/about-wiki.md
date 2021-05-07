@@ -20,7 +20,7 @@ description: "このFREESERVER Wiki!について"
 - [tsutoringo(Web Developer)](admins/tsutoringo)[Minecraftスキン関係整備]
 ### FREESERVER Wiki Editor
 - [Nakatai_0322](admins/Nakatai_0322)
-- [Nikuzuki](admins/nikuzuki)
+- [Nikuzuki](admins/Nikuzuki)
 ### FREESERVER STAFF
 - [Noaking](admins/noaking)(元Wiki Editor)
 ## 略歴
