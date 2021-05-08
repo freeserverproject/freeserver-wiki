@@ -4,6 +4,8 @@ description: tsutoringoの紹介ページ
 sidebar: false
 ---
 
+<item-sprite name="netherite-chestplate" :scale="2"/>
+
 ## About
 
 Hi. I'm tsutoringo ;) <br>
