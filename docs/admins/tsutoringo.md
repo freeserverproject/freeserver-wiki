@@ -24,7 +24,7 @@ Studying about Netlify and VuePress, VitePress.
 
 Discord tsutoringo#7933
 
-<item-sprite name="netherite-helmet" :scale="2"/><br>
-<item-sprite name="netherite-chestplate" :scale="2"/><br>
-<item-sprite name="netherite-leggings" :scale="2"/><br>
-<item-sprite name="netherite-boots" :scale="2"/>
+<item-sprite name="netherite-helmet" :scale="1.8"/><br>
+<item-sprite name="netherite-chestplate" :scale="1.8"/><br>
+<item-sprite name="netherite-leggings" :scale="1.8"/><br>
+<item-sprite name="netherite-boots" :scale="1.8"/>
