@@ -43,7 +43,8 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 - [**投票**](vote)
 - [このプロジェクトについて](about-project)
 - [このサーバーについて](about-server)
-- [このWikiについて](about-wiki).
+- [このWikiについて](about-wiki)
+- [寄付について](donate)
 ## 関連リンク
 
 | リンク名 | リンク |
