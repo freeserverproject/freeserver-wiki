@@ -97,3 +97,12 @@ collections:
       - { label: "説明", name: "description", widget: "string" }
       - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
       - { label: "本文", name: "body", widget: "markdown" }
+  - label: "ワールド一覧"
+    name: "worlds"
+    folder: "docs/world"
+    create: true
+    fields:
+      - { label: "タイトル(新規記事は英語が良き)", name: "title", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
