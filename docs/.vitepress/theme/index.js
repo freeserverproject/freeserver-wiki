@@ -6,8 +6,8 @@ import DiscordWidget from './components/DiscordWidget/Widget.vue';
 export default {
 	...DefaultTheme,
 	enhanceApp({ app }) {
-		app.component('mc-avatar', McAvatar);
-		app.component('discord-widget', DiscordWidget);
-		app.component('item-sprite', ItemSprite);
+		app.component('mc-avatar', McAvatar)
+			.component('discord-widget', DiscordWidget)
+			.component('item-sprite', ItemSprite);
 	}
 }
