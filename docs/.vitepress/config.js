@@ -1,6 +1,7 @@
 module.exports = {
 	title: 'FREESERVER Wiki!',
 	description: 'FREESERVER公式のWiki',
+	lang: 'ja-JP',
 	themeConfig: {
 		repo: 'freeserverproject/freeserver-wiki',
 		docsDir: 'docs',
