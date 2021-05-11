@@ -1,7 +1,7 @@
 {
-  "name": "vitepress-with-netlify-cms",
+  "name": "freeserver-wiki",
   "version": "0.1.0",
-  "description": "A website starter template with the default vitepress theme and Netlify CMS config",
+  "description": "wiki for freeserver",
   "main": "index.js",
   "dependencies": {
     "markdown-it-multimd-table": "^4.1.0"
