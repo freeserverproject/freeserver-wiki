@@ -56,4 +56,6 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
 
 ## Discordウィジェット
-<discord-widget url="https://discord.com/api/guilds/393963617604861952/widget.json"/>
+<ClientOnly>
+    <discord-widget url="https://discord.com/api/guilds/393963617604861952/widget.json"/>
+</ClientOnly>
