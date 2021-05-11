@@ -4,7 +4,7 @@ module.exports = {
 	lang: 'ja-JP',
 	head: [
 		[ 'script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-6SGQWYJL40', async: true } ],
-		[ 'script', {}, `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());gtag('config', 'G-6SGQWYJL40');`]
+		[ 'script', {}, `window.GA_MEASUREMENT_ID = 'G-6SGQWYJL40';window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());`]
 	],
 	themeConfig: {
 		repo: 'freeserverproject/freeserver-wiki',
