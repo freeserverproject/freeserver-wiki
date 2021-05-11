@@ -14,7 +14,8 @@ module.exports = {
 		lastUpdated: '最終更新日',
 		nav: [
 			{ text: 'トップ', link: '/' },
-			{ text: '初心者指南', link: '/beginners-guide' },
+			{ text: 'プライバシーポリシー', link: '/privacy-policy' },
+			{ text: '初心者指南', link: '/beginners-guide' }
 		]
 	},
 	markdown: {
