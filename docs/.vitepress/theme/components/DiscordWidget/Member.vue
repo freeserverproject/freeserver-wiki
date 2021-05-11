@@ -1,7 +1,7 @@
 <template>
 	<div class="member">
 		<div class="icon">
-			<img :src="member.avatar_url" alt="member-icon">
+			<img :src="member.avatar_url" loading="lazy" alt="member-icon">
 			<div class="status" :class="[member.status]"></div>
 		</div>
 		<span class="username">{{member.username}}</span>
