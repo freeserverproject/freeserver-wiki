@@ -46,3 +46,12 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |
 | URL         | yes   | \-        | Discord WidgetにあるJSON APIのURL |
+
+### Item Sprite
+```html
+<item-sprite name="snowball" :scale="1">
+``` 
+| プロパティ名 | 必須  | デフォルト | 説明 |
+| ------------| ----- | --------- | ---- |
+| name        | yes   | \-        | [Minecraft Wiki - ItemSprite](https://minecraft.fandom.com/wiki/Template:ItemSprite) ここのアイテム名を入力 |
+| scale       | no    | 1         | 倍率 |
