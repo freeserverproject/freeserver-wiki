@@ -3,7 +3,8 @@ title: AZARASH1_A_B_S_I
 description: ABSI
 sidebar: true
 ---
-# AZARASH1_A_B_S_I (･ω･っ)З
+# AZARASH1_A_B_S_I
+(･ω･っ)З
 
 ## 事故照会
 何もできない置物。
