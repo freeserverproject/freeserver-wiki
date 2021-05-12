@@ -21,6 +21,6 @@ title: AZARASH1_A_B_S_I
 
 * [GitHub:A-B-S-I](https://github.com/A-B-S-I)
 
-# 曖昧さ回避
+## 曖昧さ回避
 
 海棲哺乳類のアザラシについては、[こちら](https://ja.m.wikipedia.org/wiki/アザラシ)をご覧下さい
