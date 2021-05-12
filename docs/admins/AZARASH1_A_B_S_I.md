@@ -23,6 +23,5 @@ sidebar: true
 
 * [GitHub:A-B-S-I](https://github.com/A-B-S-I)
 
-## 曖昧さ回避
-
-海棲哺乳類のアザラシについては、[こちら](https://ja.wikipedia.org/wiki/アザラシ)をご覧下さい
+> ## 曖昧さ回避
+> 海棲哺乳類のアザラシについては、[こちら](https://ja.wikipedia.org/wiki/アザラシ)をご覧下さい
