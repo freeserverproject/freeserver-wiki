@@ -1,5 +1,7 @@
 ---
 title: AZARASH1_A_B_S_I
+description: ABSI
+sidebar: true
 ---
 # AZARASH1_A_B_S_I (･ω･っ)З
 
@@ -23,4 +25,4 @@ title: AZARASH1_A_B_S_I
 
 ## 曖昧さ回避
 
-海棲哺乳類のアザラシについては、[こちら](https://ja.m.wikipedia.org/wiki/アザラシ)をご覧下さい
+海棲哺乳類のアザラシについては、[こちら](https://ja.wikipedia.org/wiki/アザラシ)をご覧下さい
