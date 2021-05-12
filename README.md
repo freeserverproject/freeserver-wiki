@@ -30,7 +30,7 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 
 ### Minecraft Avatar
 ``` html
-<mc-avatar user="uuid | mcid" type="helm" :width="32">
+<mc-avatar user="uuid | mcid" type="helm" :width="32" />
 ```
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |
@@ -38,3 +38,11 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 | type        | no    | helm      | [https://minotar.net/](Minotor)のプロパティ |
 | width       | no    | 32        | 横幅 |
 | height      | no    | \-        | 立幅 基本的には横幅と比率になるので特別なことがない限り指定する必要なし |
+
+### Discord Widget
+```html
+<discord-widget url="Discord Widget JSON API URL"/>
+```
+| プロパティ名 | 必須  | デフォルト | 説明 |
+| ------------| ----- | --------- | ---- |
+| URL         | yes   | \-        | Discord WidgetにあるJSON APIのURL |

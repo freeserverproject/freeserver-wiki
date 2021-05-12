@@ -5,7 +5,7 @@ sidebar: true
 ---
 # ようこそ FREESERVER Wikiへ :tada:
 
-FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサーバー**についてまとめられています!
+FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
 
 ご不明な点等ありましたらこちらを参照ください!!
 
@@ -50,7 +50,7 @@ FREESERVER Wikiでは、FREESERVER PROJECTの運営している**Minecraftサー
 | リンク名 | リンク |
 | ---- | ---- |
 | オフィシャルサイト | https://www.freeserver.pro/ |
-| Japan Minecraft Servers | https://www.freeserver.pro/ |
+| Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro |
 | Monocraft | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U |
 | 利用規約 | https://www.freeserver.pro/%e3%83%ab%e3%83%bc%e3%83%ab%e3%83%bb%e5%90%84%e7%a8%ae%e6%a1%88%e5%86%85/ <br> https://bit.ly/2NoS0Hu
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |

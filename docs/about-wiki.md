@@ -5,7 +5,7 @@ description: "このFREESERVER Wiki!について"
 
 # このWikiについて
 ## 概要
-管理団体:[FREESERVER PROJECT](about-project)
+管理団体:[FREESERVER Project](about-project)
 
 使用言語:[Markdown](https://ja.wikipedia.org/wiki/Markdown)
 
