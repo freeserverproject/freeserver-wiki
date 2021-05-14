@@ -21,7 +21,7 @@ npm ci
 ```sh
 npm run docs:dev
 ```
-3. ブラウザでhttp://localhost:3000/にアクセス
+3. ブラウザで[http://localhost:3000/](http://localhost:3000/)にアクセス
 
 この手順を踏むとローカル環境でWikiをリアルタイムで見ることができます。
 Viteなので保存した瞬間記事が更新されてほんとに見たまま編集ができます。
