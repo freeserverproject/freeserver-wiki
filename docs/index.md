@@ -3,6 +3,11 @@ title: トップページ
 description: "ようこそ FREESERVER Wikiへ"
 sidebar: true
 ---
+::: danger 現在のサーバー状況
+現在サーバーへ接続できない状況が続いています。
+
+詳細な情報は[Discord](https://discord.gg/sWqY5nzJ)で更新しています。
+:::
 # ようこそ FREESERVER Wikiへ :tada:
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
