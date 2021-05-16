@@ -26,7 +26,7 @@ npm run docs:dev
 この手順を踏むとローカル環境でWikiをリアルタイムで見ることができます。
 Viteなので保存した瞬間記事が更新されてほんとに見たまま編集ができます。
 
-## custom component
+## カスタムHTML要素
 
 ### Minecraft Avatar
 ``` html
