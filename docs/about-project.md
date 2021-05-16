@@ -3,7 +3,7 @@ title: "FREESERVER Projectについて"
 description: "FREESERVER Project について"
 ---
 
-# 「FREESERVER Project」について
+# 「FREESERVER PROJECT」について
 |                             |                                                                                             |
 | --------------------------- | ------------------------------------------------------------------------------------------- |
 | 名称                        | FREESERVER Project                                                                          |
