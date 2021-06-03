@@ -8,7 +8,7 @@ import { watch } from 'vue';
 export default {
 	...DefaultTheme,
 	enhanceApp({ app, router }) {
-		watch(router.route, () => {
+		if (globalThis && globalThis.gtag) watch(router.route, () => {
 			gtag('config', window.GA_MEASUREMENT_ID, {'page_path': router.route.path});
 		});
 		app.component('mc-avatar', McAvatar)

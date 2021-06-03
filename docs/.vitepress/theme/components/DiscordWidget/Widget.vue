@@ -33,8 +33,10 @@ export default {
 		}
 	},
 	async created () {
-		this.serverData = await (await fetch(this.url)).json();
-		this.loaded = false;
+		if (globalThis && globalThis.fetch) {
+			this.serverData = await (await fetch(this.url)).json();
+			this.loaded = false;
+		}
 	}
 }
 </script>
