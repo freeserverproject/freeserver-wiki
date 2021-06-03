@@ -1,3 +1,8 @@
+---
+title: プライバシーポリシー
+description: FREESERVER Wikiにおけるプイライバシーポリシーです。
+sidebar: true
+---
 # FREESERVER | プライバシーポリシー
 ## 広告の配信について
 
