@@ -18,7 +18,7 @@ sidebar: true
 また、撮影対象からも遠く何を被写体としているのかわかりません。  
 ![](https://i.imgur.com/AHgVlSk.png)
 
-- **良い例**  ss
+- **良い例**  
 ![](https://i.imgur.com/vTv3TLz.png)
 
 ### Minecraft内でのスクリーンショットを載せる際の注意点
