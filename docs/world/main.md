@@ -25,8 +25,9 @@ sidebar: true
 
 メインスポーン:
 
-![https://i.imgur.com/hvWy8r2.png](https://i.imgur.com/hvWy8r2.png)
+[[BlueMapで見る]](https://bluemap.freeserver.pro/#world:-244:57:38:150:0.03:0:0:0:perspective)|[[pl3xMapで見る]](https://pl3x.freeserver.pro/?world=world&zoom=5&x=-242&z=52)
 
 FS拘置所:
 
-![https://i.imgur.com/sBgKu7y.png](https://i.imgur.com/sBgKu7y.png)
+[[BlueMapで見る]](https://bluemap.freeserver.pro/#world:-261:66:40:100:0:0:0:0:perspective)|[[pl3xMapで見る]](https://pl3x.freeserver.pro/?world=world&zoom=5&x=-255&z=37)
+
