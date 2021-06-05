@@ -19,4 +19,14 @@ sidebar: true
 | ------------------------------------------------------------ | ---------------------------- |
 | メインスポーン                                               | メインのスポーン。           |
 | [FS拘置所](https://wiki.freeserver.pro/jail.html)            | FREESERVER唯一無二の拘置所。 |
-| [投票コイン等交換所](https://freeserver-wiki.netlify.app/vote.html#%E4%BA%A4%E6%8F%9B%E5%A0%B4%E6%89%80) | 投票コイン等の交換所         |
+| [投票コイン等交換所](https://freeserver-wiki.netlify.app/vote.html#交換場所) | 投票コイン等の交換所         |
+
+### 施設の場所
+
+メインスポーン:
+
+![https://i.imgur.com/hvWy8r2.png](https://i.imgur.com/hvWy8r2.png)
+
+FS拘置所:
+
+![https://i.imgur.com/sBgKu7y.png](https://i.imgur.com/sBgKu7y.png)
