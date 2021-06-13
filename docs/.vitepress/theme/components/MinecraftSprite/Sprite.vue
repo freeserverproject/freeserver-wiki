@@ -40,9 +40,6 @@ export default {
 		y () {
 			return Math.floor( this._pos / this.widthCount ) * this.size;
 		}
-	},
-	mounted () {
-		console.log(Math.floor( this._pos / this.widthCount ))
 	}
 }
 </script>
@@ -50,5 +47,8 @@ export default {
 .sprite {
 	display: inline-block;
 	image-rendering: pixelated;
+	vertical-align: middle;
+	line-height: 0;
+	margin: 0 auto;
 }
 </style>

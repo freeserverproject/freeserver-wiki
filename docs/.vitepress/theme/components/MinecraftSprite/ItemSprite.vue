@@ -26,6 +26,5 @@ export default {
 <style scoped>
 .item-sprite {
 	background-image: url('../../sprites/ItemCSS.png');
-	vertical-align: text-bottom;
 }
 </style>
