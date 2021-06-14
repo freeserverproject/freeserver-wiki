@@ -1,3 +1,6 @@
+/**
+ * @type {import('vitepress/types')}
+ */
 module.exports = {
 	title: 'FREESERVER Wiki!',
 	description: 'FREESERVER公式のWiki',
@@ -14,8 +17,8 @@ module.exports = {
 		lastUpdated: '最終更新日',
 		nav: [
 			{ text: 'トップ', link: '/' },
-			{ text: 'プライバシーポリシー', link: '/privacy-policy' },
-			{ text: '初心者指南', link: '/beginners-guide' }
+			{ text: 'プライバシーポリシー', link: '/privacy-policy.html' },
+			{ text: '初心者指南', link: '/beginners-guide.html' }
 		]
 	},
 	markdown: {
