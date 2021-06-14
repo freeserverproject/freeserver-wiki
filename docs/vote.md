@@ -25,7 +25,7 @@ description: FREESERVERへの投票の方法などが書いてあります！
 ![](https://i.imgur.com/8SqxX2P.png)
 ## 交換可能なもの
 
-[**レッドストーンのツルハシ**]() 投票コイン100個→レッドストーンツルハシ
+[**レッドストーンのツルハシ**] 投票コイン100個→レッドストーンツルハシ
 
 ![](https://i.imgur.com/0tCMX8F.png)
 
@@ -37,11 +37,11 @@ description: FREESERVERへの投票の方法などが書いてあります！
 
 ![](https://i.imgur.com/ttqAuEn.png)
 
-[**ミニツリー**]()投票コイン2個→ミニツリー
+[**ミニツリー**]投票コイン2個→ミニツリー
 
 ![](https://i.imgur.com/ey1Ii9X_d.webp?maxwidth=760&fidelity=grand)
 
-[**サンタの帽子**]()
+[**サンタの帽子**]
 
 ![](https://imgur.com/5bRBZ6H.png)
 
