@@ -26,6 +26,8 @@ module.exports = {
 			md.use(require('markdown-it-multimd-table'), {
 				rowspan: true,
 			});
+			md.use(require('markdown-it-scrolltable'));
+		},
 		}
 	}
 }

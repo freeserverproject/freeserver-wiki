@@ -3,6 +3,8 @@ import McAvatar from './components/McAvatar.vue';
 import ItemSprite from './components/MinecraftSprite/ItemSprite.vue';
 import DiscordWidget from './components/DiscordWidget/Widget.vue';
 
+import './custom.css';
+
 import { watch } from 'vue';
 
 export default {
