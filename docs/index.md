@@ -37,6 +37,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [釣り大会](event/fishcontest)
 - [Paint It!](event/paint-it)
 ### プラグイン
+- [**解説ページのあるプラグイン一覧**](plugin/)
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
 - [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
 ### 権限・運営関係
