@@ -1,5 +1,5 @@
 /**
- * @type {import('vitepress/types')}
+ * @type {import('vitepress/types').UserConfig}
  */
 module.exports = {
 	title: 'FREESERVER Wiki!',
@@ -28,6 +28,8 @@ module.exports = {
 			});
 			md.use(require('markdown-it-scrolltable'));
 		},
+		toc: {
+			includeLevel: [1, 2, 3, 4]
 		}
 	}
 }
