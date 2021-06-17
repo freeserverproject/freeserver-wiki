@@ -59,7 +59,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 | WebMapポータル | https://maps.freeserver.pro/ |
 | Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro |
 | monocraft | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U |
-| 利用規約 | https://bit.ly/2NoS0Hu
+| 利用規約 | https://freeserver.pro/#/tos |
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
 
 ## Discordウィジェット
