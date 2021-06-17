@@ -1,6 +1,7 @@
 import DefaultTheme from 'vitepress/theme';
 import McAvatar from './components/McAvatar.vue';
 import ItemSprite from './components/MinecraftSprite/ItemSprite.vue';
+import InvSprite from './components/MinecraftSprite/InvSprite.vue';
 import DiscordWidget from './components/DiscordWidget/Widget.vue';
 
 import './custom.css';
@@ -15,6 +16,7 @@ export default {
 		});
 		app.component('mc-avatar', McAvatar)
 			.component('discord-widget', DiscordWidget)
-			.component('item-sprite', ItemSprite);
+			.component('item-sprite', ItemSprite)
+			.component('inv-sprite', InvSprite);
 	}
 }
