@@ -3,7 +3,7 @@
 </template>
 <script>
 import Sprite from './Sprite.vue';
-import invs from './invs.js';
+import invs from './Invs.js';
 
 export default {
 	name: 'InvSprite',
