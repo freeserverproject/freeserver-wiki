@@ -1,6 +1,8 @@
 # FREESERVER Wiki
 Welcome to FREESERVER Wiki!
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/56a0c5fe-6a83-4aee-a478-e8e90a1e03ce/deploy-status)](https://app.netlify.com/sites/freeserver-wiki/deploys)
+
 ## 使い方
 masterに対してコミットがあると自動でデプロイされ
 
