@@ -1,7 +1,8 @@
 ---
-title: Admins
-description: 運営リスト
+title: 運営リスト
+description: FREESERVERに運営として鯖に貢献しているプレイヤーの一覧です
 ---
+
 
 # 運営リスト
 トラブル等ございましたら，以下の運営に相談してみてください。
