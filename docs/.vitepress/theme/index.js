@@ -1,4 +1,5 @@
 import DefaultTheme from 'vitepress/theme';
+
 import McAvatar from './components/McAvatar.vue';
 import ItemSprite from './components/MinecraftSprite/ItemSprite.vue';
 import InvSprite from './components/MinecraftSprite/InvSprite.vue';
