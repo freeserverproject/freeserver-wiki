@@ -15,6 +15,7 @@ export default {
 		if (globalThis && globalThis.gtag) watch(router.route, () => {
 			gtag('config', window.GA_MEASUREMENT_ID, {'page_path': router.route.path});
 		});
+
 		app.component('mc-avatar', McAvatar)
 			.component('discord-widget', DiscordWidget)
 			.component('item-sprite', ItemSprite)
