@@ -29,7 +29,7 @@ description: FREESERVERへの投票の方法などが書いてあります！
 
 ![](https://i.imgur.com/0tCMX8F.png)
 
-[**魔法のほうき**](https://wiki.freeserver.pro/item/Magicbroom) 投票コイン4個→魔法のほうき
+[**魔法のほうき**](/item/broom) 投票コイン4個→魔法のほうき
 
 ![](https://i.imgur.com/5cUZv4t.png)
 

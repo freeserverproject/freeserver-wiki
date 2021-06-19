@@ -13,7 +13,7 @@ description: FREESERVER内にある権限一覧です
 
 NewComerの略（新参者ってこと）。
 
-いくつかの権限がない。(土地に建設する際，[保護](https://wiki.freeserver.pro/plugins/worldguard)しないといけないなど。)
+いくつかの権限がない。(土地に建設する際，[保護](/plugin/worldguard)しないといけないなど。)
 
 #### **鯖民**
 [公式Discord](https://discord.gg/dSZkk4D)での認証が済んでいる鯖民。権限制限が解除されている。
