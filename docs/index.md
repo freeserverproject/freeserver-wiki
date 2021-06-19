@@ -27,17 +27,19 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [規約違反するとどうなるの？](terms/violation)
 - [**違反を目撃してしまったらどうしたらいいの？**](terms/violation-look)
 ### 追加アイテム
+[追加アイテム一覧](item/)
 - [モンスターボール](item/monsterbowl)
 - [魔法のほうき](item/broom)
 - [各種魚](item/addfish)
 - [フィギュア](item/figure)
 - [バンドル](item/bundle)
 ### イベント
+[イベント一覧](event/)
 - [Trouble in Crafter Town](event/tct)(人狼,TCT)
 - [釣り大会](event/fishcontest)
 - [Paint It!](event/paint-it)
 ### プラグイン
-- [**解説ページのあるプラグイン一覧**](plugin/)
+[**解説ページのあるプラグイン一覧**](plugin/)
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
 - [**BlockLocker**](plugin/blocklocker)(簡易保護PL)
 ### 権限・運営関係
