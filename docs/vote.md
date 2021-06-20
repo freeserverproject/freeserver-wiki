@@ -46,4 +46,3 @@ description: FREESERVERへの投票の方法などが書いてあります！
 ![](https://imgur.com/5bRBZ6H.png)
 
 <a href="https://minecraft.jp/servers/play.freeserver.pro"><img src="https://minecraft.jp/servers/play.freeserver.pro/banner/1/560x95.png"/></a>
-
