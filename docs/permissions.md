@@ -6,17 +6,18 @@ description: FREESERVER内にある権限一覧です
 # 権限リスト
 ## 概要
 当サーバーには，いくつかの権限があります。それをこのページでは紹介します。
+
 ## Minecraft権限リスト
 ### プレイヤー権限
 ####  **NC**
-[公式Discord](https://discord.gg/dSZkk4D)での認証が済んでない鯖民。
+[公式Discord](/discord)での認証が済んでない鯖民。
 
 NewComerの略（新参者ってこと）。
 
 いくつかの権限がない。(土地に建設する際，[保護](/plugin/worldguard)しないといけないなど。)
 
 #### **鯖民**
-[公式Discord](https://discord.gg/dSZkk4D)での認証が済んでいる鯖民。権限制限が解除されている。
+[公式Discord](/discord)での認証が済んでいる鯖民。権限制限が解除されている。
 
 ### 運営権限
 #### [**Owner**](admins/#Owner)
