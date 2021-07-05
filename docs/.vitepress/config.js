@@ -7,7 +7,9 @@ module.exports = {
 	lang: 'ja-JP',
 	head: [
 		[ 'script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-6SGQWYJL40', async: true } ],
-		[ 'script', {}, `window.GA_MEASUREMENT_ID = 'G-6SGQWYJL40';window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());`]
+		[ 'script', {}, `window.GA_MEASUREMENT_ID = 'G-6SGQWYJL40';window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());`],
+		[ 'script', {async: "true", src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"} ],
+		[ 'script', {}, '(adsbygoogle = window.adsbygoogle || []).push({});' ]
 	],
 	themeConfig: {
 		repo: 'freeserverproject/freeserver-wiki',
