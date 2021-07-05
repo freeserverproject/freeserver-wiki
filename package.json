@@ -16,5 +16,5 @@
     "docs:serve": "vitepress serve docs"
   },
   "author": "tsutoringo (https://github.com/tsutoringo)",
-  "license": "MIT"
+  "license": "CC BY-NC-ND 4.0"
 }
