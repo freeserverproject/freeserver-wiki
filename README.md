@@ -6,8 +6,7 @@ Welcome to FREESERVER Wiki!
 ## 使い方
 masterに対してコミットがあると自動でデプロイされ
 
-Netlifyでビルドされ[wiki.freeserver.pro](https://wiki.freeserver.pro)
-または[freeserver-wiki.netlify.app](https://freeserver-wiki.netlify.app/)に適用されます。
+Netlifyでビルドされ[wiki.freeserver.pro](https://wiki.freeserver.pro)及び[freeserver-wiki.netlify.app](https://freeserver-wiki.netlify.app)に適用されます。
 
 ## ローカルで検証
 ### 必要環境
