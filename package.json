@@ -15,6 +15,5 @@
     "docs:build": "vitepress build docs",
     "docs:serve": "vitepress serve docs"
   },
-  "author": "tsutoringo (https://github.com/tsutoringo)",
-  "license": "CC BY-NC-ND 4.0"
+  "author": "tsutoringo (https://github.com/tsutoringo)"
 }
