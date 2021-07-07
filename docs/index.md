@@ -3,11 +3,7 @@ title: トップページ
 description: ようこそ FREESERVER Wikiへ
 sidebar: true
 ---
-::: warning 現在のサーバー状況
-サーバーが復旧しました
 
-インベントリが消えているなどございましたらDiscordもしくはMinecraftのチャットでAdminにお問い合わせください
-:::
 # ようこそ FREESERVER Wikiへ :tada:
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
