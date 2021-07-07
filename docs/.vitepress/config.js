@@ -4,12 +4,9 @@
 module.exports = {
 	title: 'FREESERVER Wiki!',
 	description: 'FREESERVER公式のWiki',
-	lang: 'ja-JP',
+	lang: 'ja-jp',
 	head: [
-		[ 'script', { src: 'https://www.googletagmanager.com/gtag/js?id=G-6SGQWYJL40', async: true } ],
-		[ 'script', {}, `window.GA_MEASUREMENT_ID = 'G-6SGQWYJL40';window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);}gtag('js', new Date());`],
-		[ 'script', {async: "true", src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"} ],
-		[ 'script', {}, '(adsbygoogle = window.adsbygoogle || []).push({});' ]
+		[ 'script', {}, "(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':\nnew Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],\nj=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=\n'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);\n})(window,document,'script','dataLayer','GTM-MCRHV3M');" ]
 	],
 	themeConfig: {
 		repo: 'freeserverproject/freeserver-wiki',
