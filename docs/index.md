@@ -17,7 +17,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [**初めての方へ**](beginners-guide)
 - [**Discordコミュニティについて**](discord)
 ### 規約関係
-- [**利用規約**](terms/index)
+- [**利用規約**](terms/)
 - [留置所(Jail)](jail)
 - [**許可Mod**](allow-mods)
 - [規約違反するとどうなるの？](terms/violation)
