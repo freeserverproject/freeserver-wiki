@@ -6,11 +6,11 @@ sidebar: true
 # FREESERVER | プライバシーポリシー
 ## 広告の配信について
 
-当サイトは第三者配信の広告サービス「Carbon Ads カーボンアド」を利用しています。
+当サイトは第三者配信の広告サービス「Google Adsense グーグルアドセンス」を利用しています。
 
 広告配信事業者は、ユーザーの興味に応じた広告を表示するためにCookie（クッキー）を使用することがあります。
 
-Cookie（クッキー）を無効にする設定およびCarbon Adsに関する詳細は[「FrequentlyAsked Questions」](https://www.carbonads.net/faq)をご覧ください。
+Cookie（クッキー）を無効にする設定およびGoogleアドセンスに関する詳細は[広告 – ポリシーと規約 – Google](https://www.google.co.jp/policies/technologies/ads/)をご覧ください。
 
 第三者がコンテンツおよび宣伝を提供し、訪問者から直接情報を収集し、訪問者のブラウザにCookie（クッキー）を設定したりこれを認識したりする場合あります。
 
