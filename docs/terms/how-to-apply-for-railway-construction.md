@@ -1,6 +1,6 @@
 ---
 title: How to Apply for Transportation
-description: 交通機関の許諾申請と建設に関して
+description: 交通機関の許諾申請と建設に関して　見てもらったらすぐドラフトにします。
 sidebar: true
 ---
 # 専用軌道を持つ交通機関に関する制限事項
