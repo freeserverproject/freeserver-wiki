@@ -1,6 +1,7 @@
 ---
 title: 運営リスト
 description: FREESERVERに運営として鯖に貢献しているプレイヤーの一覧です
+sidebar: true
 ---
 
 
@@ -11,7 +12,7 @@ description: FREESERVERに運営として鯖に貢献しているプレイヤー
 
 ## 運営一覧
 
-| 権限 || ユーザー || 参加日時 | 備考 |
+| 権限 || ユーザー || 運営加入日 | 備考 |
 | --- | --- | --- | --- | --- |
 | Owner                        || <mc-avatar user="a1f8207cdbaa426d92a438c6d0f3c570" /> | [alpha9n](alphakun.html)    　    　　| 2017/12/23 | サーバー代表者 |
 | SubOwner | Plugin Dev         | <mc-avatar user="81e123bc72964a59a7ee3aabdedf2d91" /> | [tererun](tererun.html)     　    　　| 2017/12/27 | カエル |
