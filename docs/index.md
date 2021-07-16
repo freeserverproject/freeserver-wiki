@@ -45,12 +45,13 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [Wikiチームからのご挨拶](from-wikiteam)
 ### その他
 - [**投票**](vote)
+- [アイテムの受け渡し方](how-to/senditem)
+### 〇〇について
 - [このプロジェクトについて](about-project)
 - [このサーバーについて](about-server)
 - [このWikiについて](about-wiki)
 - [寄付について](donate)
 ## 関連リンク
-
 | リンク名 | リンク |
 | ---- | ---- |
 | オフィシャルサイト | https://www.freeserver.pro/ |
