@@ -10,6 +10,7 @@ FREESERVERでは定期的にイベントが開催されます。
 ## 一覧
 | イベント | 備考　|
 | ------- | ---- |
+| [夏祭り](summer_festival) |  |
 | [釣り大会](fishcontest) |  |
 | [Paint It!](paint-it) |  |
 | [TCT](tct) | Trouble in Crafter Town |
