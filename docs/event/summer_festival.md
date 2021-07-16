@@ -1,3 +1,4 @@
+![](https://i.imgur.com/hGFjRwQ.png)
 # 夏祭り
 FREESERVERにて夏に開催される一大イベントである
 
