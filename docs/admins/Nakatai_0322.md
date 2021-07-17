@@ -1,9 +1,12 @@
 ---
 title: Nakatai_0322
+description: Nakataiの自己紹介。
+sidebar: true
 ---
-# <mc-avatar user="d297f52003024e5d944fd78edc82891a"></mc-avatar>Nakatai_0322
+# Nakatai_0322
 
 ## はじめに
+
 どうも，皆さんはじめまして。
 
 「[FREESERVER](https://www.freeserver.pro)」運営のNakataiと申します。
@@ -11,6 +14,7 @@ title: Nakatai_0322
 私は，現在Wiki(広報)担当(AdminサーバーではWiki Editorと表記)をさせてもらってます！
 
 ## 自己紹介
+
 名称:Nakatai
 
 性別:男性
@@ -40,40 +44,18 @@ SM:ドM
 彼女イナイ歴:年齢とイコール
 
 ## 経歴
-| 年   | 月  | 日  | 内容                  |
-| ---- | --- | --- | --------------------- |
+
+| 年    | 月   | 日   | 内容             |
+| ---- | --- | --- | -------------- |
 | 2020 | 10  | 8   | Builderとして運営就任 |
-| 2020 | 11  | 9   | Wiki Editorへ転向     |
+| 2020 | 11  | 9   | Wiki Editorへ転向 |
+
 ## PC環境
-### メインPC(自作PC)
-> **CPU** AMD Ryzen7 3700X
-> 
-> **GPU** ASUS PH-RTX2060-6G(NVIDIA RTX2060)
-> 
-> **マザボ** MSI MPG X570 GAMING PLUS
-> 
-> **メモリ** A-DATA DDR4-3200 16GB
-> 
-> **SSD** CFD CSSD-M2M5GEG1VNE
-> 
-> **BDドライブ** Pioneer BD-RW BDR-212BK
-> 
-> **電源** 玄人志向 KRPW-GK750W/90+
-> 
-> **キーボード** Steelseries APEX3
-> 
-> **マウス** Logicool G203 LIGHTSYNC Gaming Mouse
-### サブPC（ボロノートパソコン）
-> **CPU** Intel Corei5 @M520 2.4GHz
-> 
-> **GPU** おんぼーど
-> 
-> **メモリ** SAMSUNG DDR3 4GB
-> 
-> **HDD** 256GB
-> 
+
+[こちら](https://www.geartics.com/Nakatai_0322)を参照
 
 ## 連絡先
+
 Twitter:https://twitter.com/Nakatai0322
 
 プロフ:https://profcard.info/u/msr0FgH8afOQZ05dfUaS6FXoKlL2
