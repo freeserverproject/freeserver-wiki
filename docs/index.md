@@ -26,6 +26,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [**許可Mod**](allow-mods)
 - [規約違反するとどうなるの？](terms/violation)
 - [**違反を目撃してしまったらどうしたらいいの？**](terms/violation-look)
+- [交通機関に関する許諾申請と建設について](terms/how-to-apply-for-railway-construction)
 ### 追加アイテム
 [追加アイテム一覧](item/)
 - [モンスターボール](item/monsterbowl)
