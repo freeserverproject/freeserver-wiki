@@ -3,7 +3,9 @@ title: How to Apply for Transportation
 description: 交通機関の許諾申請と建設に関して
 sidebar: true
 ---
-# 専用軌道を持つ交通機関に関する制限事項
+# 交通機関に関する許諾申請と建設について
+
+## 専用軌道を持つ交通機関に関する制限事項
 
 ## はじめに
 
