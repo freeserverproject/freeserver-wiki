@@ -1,4 +1,8 @@
-
+---
+title: トップページ
+description: ようこそ FREESERVER Wikiへ
+sidebar: true
+---
 # ようこそ FREESERVER Wikiへ :tada:
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
