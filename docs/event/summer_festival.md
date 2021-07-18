@@ -36,6 +36,3 @@ FREESERVERにて夏に開催される一大イベントである
 
 | 配信者 | 配信URL |
 | ----- | ------ |
-
-## 公式ツイート
-<blockquote class="twitter-tweet"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/FREESERVER?src=hash&amp;ref_src=twsrc%5Etfw">#FREESERVER</a><br>今年も夏祭りの時期がやってきた!<br>今年は8/27~8/29の3日間にかけて各日共に18:00~21:00まで開催します<br><br>各日のメインイベントは下記の通りです<br>　一日目: 運営ラジオ 特別編 in FS夏祭り2021<br>　二日目: 建築コンテスト<br>　三日目: 花火大会<br><br>↓詳しくはこちら↓<a href="https://t.co/awbeBI2F96">https://t.co/awbeBI2F96</a> <a href="https://t.co/UyhEnnnNB7">pic.twitter.com/UyhEnnnNB7</a></p>&mdash; 【公式】FREESERVER (@FREESERVERP) <a href="https://twitter.com/FREESERVERP/status/1416371948515299332?ref_src=twsrc%5Etfw">July 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
