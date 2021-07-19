@@ -5,43 +5,6 @@ media_folder: "docs/public/media"
 public_folder: "/media"
 publish_mode: editorial_workflow
 collections:
-  - label: "Home"
-    name: "home"
-    files:
-      - label: "Homepage"
-        name: "homepage"
-        file: "docs/index.md"
-        delete: false
-        fields:
-          - { label: "Home", name: "home", widget: "hidden", default: true }
-          - {
-              label: "Hero image",
-              name: "heroImage",
-              widget: "image",
-              required: false,
-            }
-          - { label: "Hero text", name: "heroText", widget: "string" }
-          - {
-              label: "Tagline",
-              name: "tagline",
-              widget: "string",
-              required: false,
-            }
-          - { label: "Action text", name: "actionText", widget: "string" }
-          - { label: "Action link", name: "actionLink", widget: "string" }
-          - label: Features
-            name: features
-            widget: list
-            fields:
-              - { label: "Title", name: "title", widget: "string" }
-              - { label: "Details", name: "details", widget: "string" }
-          - {
-              label: "Footer",
-              name: "footer",
-              widget: "string",
-              required: false,
-            }
-          - { label: "Body", name: body, widget: markdown, required: false }
   - label: "固定ページ"
     name: "fixedPages"
     folder: "docs"
@@ -100,6 +63,15 @@ collections:
   - label: "ワールド一覧"
     name: "worlds"
     folder: "docs/world"
+    create: true
+    fields:
+      - { label: "タイトル(新規記事は英語が良き)", name: "title", widget: "string" }
+      - { label: "説明", name: "description", widget: "string" }
+      - { label: "サイドバー", name: "sidebar", widget: "boolean", default: true }
+      - { label: "本文", name: "body", widget: "markdown" }
+  - label: "鉄道"
+    name: "trains"
+    folder: "docs/trains"
     create: true
     fields:
       - { label: "タイトル(新規記事は英語が良き)", name: "title", widget: "string" }
