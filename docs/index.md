@@ -3,6 +3,7 @@ title: トップページ
 description: ようこそ FREESERVER Wikiへ
 sidebar: true
 ---
+:::現在夏祭り準備期間中です！皆様奮ってご参加ください！[特設ページ](event/summer_festival):::
 # ようこそ FREESERVER Wikiへ :tada:
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
