@@ -3,25 +3,30 @@ title: トップページ
 description: ようこそ FREESERVER Wikiへ
 sidebar: true
 ---
-
 # ようこそ FREESERVER Wikiへ :tada:
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
 
 ご不明な点等ありましたらこちらを参照ください!!
 
-記事は，[Wiki Editor](http://wiki.freeserver.pro/admins#Wiki%20Editor)[現在数2人][など](about-wiki#%E7%B7%A8%E9%9B%86%E8%80%85%E3%83%AA%E3%82%B9%E3%83%88)により随時拡充中です！
+記事は，[Wiki Editor](http://wiki.freeserver.pro/admins#Wiki%20Editor)(現在数2人)などにより随時拡充中です！
 ## 目次
 (太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。)
 ### お初さん向け
 - [**初めての方へ**](beginners-guide)
 - [**Discordコミュニティについて**](discord)
+### ワールド紹介
+- [メインワールド](world/main)
+- [資源ワールド](world/shigen)
+- [整地ワールド](world/seichi)
+- [地上絵ワールド](world/art-world)
 ### 規約関係
 - [**利用規約**](terms/)
 - [留置所(Jail)](jail)
 - [**許可Mod**](allow-mods)
 - [規約違反するとどうなるの？](terms/violation)
 - [**違反を目撃してしまったらどうしたらいいの？**](terms/violation-look)
+- [交通機関に関する許諾申請と建設について](terms/how-to-apply-for-railway-construction)
 ### 追加アイテム
 [追加アイテム一覧](item/)
 - [モンスターボール](item/monsterbowl)
