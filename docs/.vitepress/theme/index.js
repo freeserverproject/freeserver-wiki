@@ -14,7 +14,7 @@ export default {
 	NotFound: DefaultTheme.NotFound,
 	Layout,
 	enhanceApp({ app, router }) {
-		if (globalThis && globalThis.gtag) watch(router.route, () => {
+		if (typeof window !== 'undefined') watch(router.route, () => {
 			window.dataLayer.push({
 				'event': 'router-update'
 			})
