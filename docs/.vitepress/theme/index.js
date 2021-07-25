@@ -15,7 +15,9 @@ export default {
 	Layout,
 	enhanceApp({ app, router }) {
 		if (globalThis && globalThis.gtag) watch(router.route, () => {
-			gtag('config', window.GA_MEASUREMENT_ID, {'page_path': router.route.path});
+			window.dataLayer.push({
+				'event': 'router-update'
+			})
 		});
 
 		app.component('mc-avatar', McAvatar)
