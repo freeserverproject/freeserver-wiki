@@ -63,12 +63,15 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 | リンク名 | リンク |
 | ---- | ---- |
 | オフィシャルサイト | https://www.freeserver.pro/ |
+|公式YouTubeチャンネル|https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g|
+|公式Twitter|https://twitter.com/FREESERVERP|
 | WebMapポータル | https://maps.freeserver.pro/ |
 | Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro |
 | monocraft | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U |
 | 利用規約 | https://freeserver.pro/#/tos |
 | 公式Discordコミュニティ | https://www.discord.gg/WudKwEj |
 | サーバーの詳細情報 | https://plan.freeserver.pro/ |
+
 
 ## Discordウィジェット
 <discord-widget url="https://discord.com/api/guilds/393963617604861952/widget.json"/>
