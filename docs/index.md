@@ -42,7 +42,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [Trouble in Crafter Town](event/tct)(人狼,TCT)
 - [釣り大会](event/fishcontest)
 - [Paint It!](event/paint-it)
-- [運営ラジオ](radio)
+- [運営ラジオ](event/radio)
 ### プラグイン
 [**解説ページのあるプラグイン一覧**](plugin/)
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
