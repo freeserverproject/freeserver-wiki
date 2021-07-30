@@ -37,11 +37,12 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 - [各種魚](item/addfish)
 - [フィギュア](item/figure)
 - [バンドル](item/bundle)
-### イベント
+### イベント関係
 [イベント一覧](event/)
 - [Trouble in Crafter Town](event/tct)(人狼,TCT)
 - [釣り大会](event/fishcontest)
 - [Paint It!](event/paint-it)
+- [運営ラジオ](radio)
 ### プラグイン
 [**解説ページのあるプラグイン一覧**](plugin/)
 - [**WorldGuard**](plugin/worldguard)(土地保護PL)
