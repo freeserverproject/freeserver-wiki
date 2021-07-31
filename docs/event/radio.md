@@ -35,4 +35,4 @@ sidebar: true
 | [\#4](https://youtu.be/yx_Lx-O0aNI) |2021/06/11| たにやん                   | たこ焼きを食せよ。          | \-                                                                              |
 | [\#5](https://youtu.be/xbjseQBnLWw) |2021/06/18| \-                     | 窓側に差し込む日差し、そこにある弁当 | 5の倍数回のためスペシャル回                                                                  |
 | [\#6](https://youtu.be/yBQU-UmAel0) |2021/07/02| かりお                    | 王様が部屋にいない、焦る部下たち   | \-                                                                              |
-| \#7                                 |2021/08/27| 運営ラジオ 特別編 in FS夏祭り2021 |-| [夏祭り](https://freeserver-wiki.netlify.app/event/summer_festival.html)の出し物として開催！ |
+| \#7                                 |2021/08/27|-|運営ラジオ 特別編 in FS夏祭り2021| [夏祭り](https://freeserver-wiki.netlify.app/event/summer_festival.html)の出し物として開催！ |
