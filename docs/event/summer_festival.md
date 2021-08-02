@@ -1,3 +1,8 @@
+---
+title: summer-festival
+description: 夏祭りのご紹介です！
+sidebar: true
+---
 ![](https://i.imgur.com/hGFjRwQ.png)
 # 夏祭り
 FREESERVERにて夏に開催される一大イベントである  
