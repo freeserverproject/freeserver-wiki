@@ -8,7 +8,20 @@ sidebar: true
 
 ## Jobsって？
 
-Jobsとは，Minecraftに職業の概念を追加するプラグインで，Jobsの職業には，Builder（建築家）・Farmer（農家）・Enchanter（エンチャント師）・Fisherman（釣り人）・Miner（整地者）・Explorer（探検家）・Hunter（狩人）・Weaponsmith（武器鍛冶）・Woodcutter（木こり）・Digger（掘削作業者）・Brewer（ポーション醸造師）・Crafterがある。
+Jobsとは，Minecraftに職業の概念を追加するプラグインで，Jobsの職業には，
+- Builder（建築家）
+- Farmer（農家）
+- Enchanter（エンチャント師）
+- Fisherman（釣り人）
+- Miner（整地者）
+- Explorer（探検家）
+- Hunter（狩人）
+- Weaponsmith（武器鍛冶）
+- Woodcutter（木こり）
+- Digger（掘削作業者）
+- Brewer（ポーション醸造師）
+- Crafter
+がある。
 
 ## 職業に就くにはどうしたらいいの？
 
