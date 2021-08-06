@@ -52,3 +52,7 @@ MVPは下の画像のように、各ゲームごとに1人ずつ記名してく�
 | 8/1 | 第1回 | Maple8192・Alpha9n |
 |  | 第2回 | KARIOO_B・shirotamago・riru2246 |
 |  | 第3回 | KARIOO_B |
+| 8/6 | 第1回 | Taniyan18・benitengudake |
+|  | 第2回 | Muginekoyuki・benitengudake |
+|  | 第3回 | KARIOO_B |
+|  | 第4回 | gray27 |
