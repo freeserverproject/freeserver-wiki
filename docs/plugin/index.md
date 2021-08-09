@@ -1,6 +1,7 @@
 ---
 title: プラグイン一覧
 description: FREESERVERで取り扱ってる一部のプラグインの使用方法が書いてあります
+sidebar: true
 ---
 # プラグイン一覧
 FREESERVERに導入されている一部のプラグインを誰でも使えるよう解説のページを作成しています
@@ -17,3 +18,4 @@ FREESERVERに導入されている一部のプラグインを誰でも使える
 | Plugin | 説明 | 配布ページ |
 | ------ | ----| --------- |
 | [Lift](./lift) | エレベータを設置するためのプラグイン | [Spigot](https://www.spigotmc.org/resources/lift.4704/) |
+|[Jobs](./jobs)|職業の概念を追加するプラグイン|[Spigot](https://www.spigotmc.org/resources/jobs-reborn.4216)|
