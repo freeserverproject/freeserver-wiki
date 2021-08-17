@@ -18,6 +18,26 @@ sidebar: true
 
 [FREESERVER公式YouTubeチャンネル](https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g)から視聴できます。
 
+## FAQ
+
+### お便りを出したいんだけど？
+
+お便りを出すには，ラジオ放送前に下のようなメッセージがDiscordの#ラジオ情報に投稿されるので，そこにリンクが有るGoogle Formにお便りを記入・送信してくださればガンマくんが読み上げ，ゲストが回答してくれるはずです。
+
+（公序良俗に反するものは受け付けません！）
+
+![](https://i.imgur.com/uHz8wYp.png)
+
+### ラジオに出たい！
+
+ラジオに出るためには，ゲストに応募する必要があります。
+
+[こちら](https://forms.gle/2wyxePsf5RhhFv8b6)に記入し，送信してみてください！
+
+ガンマくんに選ばれれば，下のようなメッセージがガンマくんから届くはず！
+
+![](https://i.imgur.com/vrq2Hfb.png)
+
 ## 運営ラジオの歴史
 
 ※この節では，運営ラジオの歴史にのみ触れ，個々の放送回には触れないこととします。
