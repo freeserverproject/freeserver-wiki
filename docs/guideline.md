@@ -84,7 +84,28 @@ sidebar: true
 ---
 
 を使いましょう。
-
 ## なるべくMarkdownを使おう
 
-Markdownの中にHTMLを使うことは出来ますが、見た目上の問題故、Markdownで書けるところはなるべくMarkdownで書けるようにしましょう。
+Markdownの中にHTMLを使うことは出来ますが、見た目上の問題ゆえ、Markdownで書けるところはなるべくMarkdownで書けるようにしましょう。
+
+## 画像の埋め込みにははImgur（イムガー）を使おう
+
+画像はImgurを使って添付するようにしましょう。
+
+添付する方法は，まず，画像を用意したら，https://imgur.com に行って，撮影した画像をページ枠内にドラックアンドドロップします。
+
+そうしたら，下のような画面になると思われます。
+
+![](https://i.imgur.com/zjHxHNJ.png)
+
+更に， 
+    Give your post title... 
+の下の画像を右クリックして，画像のリンクをコピーというボタンをクリックすると，その画像へのリンクがクリップボードにコピーされます。
+
+そして，Wikiのコードに
+```![]()```と入力し，右の括弧の中に先ほどコピーしたURLをペーストしてください。
+
+※参考動画
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1IVctVQfUW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
