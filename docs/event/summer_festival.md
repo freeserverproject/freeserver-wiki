@@ -35,22 +35,21 @@ FREESERVERにて夏に開催される一大イベントである
 
 ## 詳細な予定
 ### 27日(金曜日)
-`18:00~18:15` AlphakunSays :speaking_head: 
-`18:30~19:00` 潮干狩り :shell: 
-`19:15~20:15` 椛谷 鬼ごっこ :man_running: 
-`20:30~21:00` 運営ラジオ :radio: 
-
+`18:00~18:15` AlphakunSays :speaking_head:  
+`18:30~19:00` 潮干狩り :shell:  
+`19:15~20:15` 椛谷 鬼ごっこ :man_running:  
+`20:30~21:00` 運営ラジオ :radio:  
 
 ### 28日(土曜日)
-`19:00~19:30` 潮干狩り :shell: 
-`19:45~20:15` AlphakunSays :speaking_head:
-`20:30~21:00` 建築コンテスト 結果発表 :construction_site:
+`19:00~19:30` 潮干狩り :shell:  
+`19:45~20:15` AlphakunSays :speaking_head:  
+`20:30~21:00` 建築コンテスト 結果発表 :construction_site:  
 
 ### 29日(日曜日)
-`18:45~19:15` トロッコ流鏑馬 :bow_and_arrow: 
-`19:35~20:05` 椛谷 宝くじ 結果発表 :money_with_wings: 
-`20:20~20:35` 大抽選会 結果発表 :gift:
-`20:50~21:00` 花火大会 :fireworks:
+`18:45~19:15` トロッコ流鏑馬 :bow_and_arrow:  
+`19:35~20:05` 椛谷 宝くじ 結果発表 :money_with_wings:  
+`20:20~20:35` 大抽選会 結果発表 :gift:  
+`20:50~21:00` 花火大会 :fireworks:  
 
 ## 配信について
 昨年度は[Alpha Ch. あるふぁ](https://youtu.be/zOEyRyvzR2A)にて配信していましたが、今年は[FREESERVER 公式YouTubeアカウント](https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g)からの配信を予定しています  
