@@ -1,5 +1,5 @@
 ---
-title: summer-festival
+title: 夏祭り
 description: 夏祭りのご紹介です！
 sidebar: true
 ---
