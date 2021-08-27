@@ -76,7 +76,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### その他
 
-* **[投票](vote)**
+* [投票](vote)
 * [アイテムの受け渡し方](how-to/senditem)
 
 ### 〇〇について
