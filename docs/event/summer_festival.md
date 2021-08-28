@@ -57,7 +57,9 @@ FREESERVERにて夏に開催される一大イベントである
 | 配信者 | 配信URL |
 | ----- | ------ |
 | FREESERVER公式 |  https://youtu.be/kDoaEYRUQV8 |
+| 二日目 | https://youtu.be/b07cwtjp6VU |
 | 柊 朱夢 -Hiragi shumu- | https://youtu.be/5SAK4WuIpbY |
+| 二日目 | https://youtu.be/F_d0FFzaIZE |
 
 ## FAQ
 
