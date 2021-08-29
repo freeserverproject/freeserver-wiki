@@ -4,6 +4,13 @@ description: 夏祭りのご紹介です！
 sidebar: true
 ---
 ![](https://i.imgur.com/hGFjRwQ.png)
+
+
+::: tip
+夏祭り2021は無事終わりました！
+ご参加ありがとうございました！！！
+:::
+
 # 夏祭り
 FREESERVERにて夏に開催される一大イベントである  
 質問などは[FAQ](#faq)を参考にしてください。  
@@ -54,10 +61,10 @@ FREESERVERにて夏に開催される一大イベントである
 ## 配信について
 昨年度は[Alpha Ch. あるふぁ](https://youtu.be/zOEyRyvzR2A)にて配信していましたが、今年は[FREESERVER 公式YouTubeアカウント](https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g)からの配信を予定しています  
 
-| 配信者 | 配信URL |
-| ----- | ------ |
-| FREESERVER公式 |  https://youtu.be/kDoaEYRUQV8 |
-| 柊 朱夢 -Hiragi shumu- | https://youtu.be/5SAK4WuIpbY |
+| 配信者 | 一日目　|　二日目　|　三日目　|
+| ----- | ---- | ----- | -----|
+| FREESERVER公式 | https://youtu.be/kDoaEYRUQV8 | https://youtu.be/b07cwtjp6VU | https://youtu.be/gzsc6dOHweY |
+| 柊 朱夢 -Hiragi shumu- | https://youtu.be/5SAK4WuIpbY | https://youtu.be/F_d0FFzaIZE | https://youtu.be/-5gdvUVcFJs |
 
 ## FAQ
 
