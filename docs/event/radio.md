@@ -58,5 +58,5 @@ sidebar: true
 | [\#4](https://youtu.be/yx_Lx-O0aNI) |2021/06/11| <mc-avatar user="4b524e32552144c6bec324268370e2cc" />[たにやん](https://twitter.com/Taniyan18_free)| たこ焼きを食せよ。| \-                                                                              |
 | [\#5](https://youtu.be/xbjseQBnLWw) |2021/06/18| <mc-avatar user="182227c46dec4576b9bff38b9bf833ec" />[ガンマ](https://wiki.freeserver.pro/admins/ganma_.html)                     | 窓側に差し込む日差し、そこにある弁当 | 5の倍数回のためスペシャル回                                                                  |
 | [\#6](https://youtu.be/yBQU-UmAel0) |2021/07/02| <mc-avatar user="e17b9f6c04e045338c8e97b5b42d525d" />かりお| 王様が部屋にいない、焦る部下たち   | \- |
-| [\#7](https://youtu.be/kDoaEYRUQV8?t=9702) |2021/08/27|運営陣 (ガンマ，てれるん，しゅうばりうむ，たけのは，あるふぁ，つとりんご)  |運営ラジオ 特別編 in FS夏祭り2021| [夏祭り](https://freeserver-wiki.netlify.app/event/summer_festival.html)の出し物として開催！ |
+| [\#7](https://youtu.be/kDoaEYRUQV8?t=9702) |2021/08/27|運営陣 (てれるん，しゅうばりうむ，たけのは，あるふぁ，つとりんご)  |運営ラジオ 特別編 in FS夏祭り2021| [夏祭り](https://freeserver-wiki.netlify.app/event/summer_festival.html)の出し物として開催！ |
 
