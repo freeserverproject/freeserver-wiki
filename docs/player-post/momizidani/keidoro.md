@@ -73,3 +73,5 @@ MVPは下の画像のように、各ゲームごとに1人ずつ記名してく�
 | 8/27 | 第7回 | 第1戦 | gray27 |
 |  |  | 第2戦 | Alpha9n・shumu1124 |
 |  |  | 第3戦 | shirotamago・tererun・ganma_・shumu1124 |
+
+全試合で一番MVPになった回数が多かったのはKARIOO_Bくんです！よっ、警ドロ最強人間！
