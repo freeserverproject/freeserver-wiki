@@ -9,7 +9,7 @@ sidebar: true
 
 ## WorldGuard(範囲保護)の保護方法
 
-Step1.まず，金の斧を用意します。    <item-sprite name="golden-axe" :scale="1">
+Step1.まず，金の斧を用意します。    <item-sprite name="golden-axe" :scale="1" />
 
 Step2.用意ができたら，保護する範囲を選択します。
 
