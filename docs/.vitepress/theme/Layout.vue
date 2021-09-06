@@ -8,6 +8,11 @@
 				data-ad-format="auto"
 				data-full-width-responsive="true"></ins>
 		</template>
+		<template #page-bottom>
+			<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Cc-by-nc-nd_icon.svg" alt="CC BY-NC-ND 4.0">
+			</a>
+		</template>
 	</Layout>
 </template>
 
