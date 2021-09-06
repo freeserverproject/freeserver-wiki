@@ -3,9 +3,6 @@ title: トップページ
 description: ようこそ FREESERVER Wikiへ
 sidebar: true
 ---
-::: tip お知らせ
-現在夏祭り準備期間中です！皆様奮ってご参加ください！[特設ページ](event/summer_festival)
-::: 
 
 # ようこそ FREESERVER Wikiへ :tada:
 
