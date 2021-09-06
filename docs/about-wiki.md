@@ -15,7 +15,7 @@ description: "このFREESERVER Wiki!について"
 
 ## 編集者リスト
 
-## FREESERVER運営
+### FREESERVER運営
 
 [運営リスト](admins/)をご覧ください。
 
