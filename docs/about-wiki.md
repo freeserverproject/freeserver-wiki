@@ -19,7 +19,7 @@ description: "このFREESERVER Wiki!について"
 
 ## FREESERVER運営
 
-[運営リスト](admins)をご覧ください。
+[運営リスト](https://wiki.freeserver.pro/admins/index.html)をご覧ください。
 
 ### FREESERVER 元運営
 
