@@ -15,8 +15,6 @@ description: "このFREESERVER Wiki!について"
 
 ## 編集者リスト
 
-**[役職序列順]** ()内:詳細役職
-
 ## FREESERVER運営
 
 [運営リスト](https://wiki.freeserver.pro/admins/index.html)をご覧ください。
