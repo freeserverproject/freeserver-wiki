@@ -51,7 +51,7 @@ sidebar: true
 
 | 放送回数 | 配信日| ゲスト（敬称略）| サブタイトル|その他|
 | -- | -- | -- | -- | -- |
-| \#0|2021/05/15|<mc-avatar user="ef629a8d1baf4549afd6cf7eb917d720" />[あざらし](https://wiki.freeserver.pro/admins/azarash1_a_b_s_i.html)|-|公式Discord内で開催（どこぞの鯖主がイベントのときに寝ていたので臨時回，そのためアーカイブもなし，2時間スペシャル）|
+| \#0|2021/05/15|<mc-avatar user="ef629a8d1baf4549afd6cf7eb917d720" />[あざらし](https://wiki.freeserver.pro/admins/azarash1_a_b_s_i.html)|nICE BOAT.|公式Discord内で開催（どこぞの鯖主がイベントのときに寝ていたので臨時回，そのためアーカイブもなし，2時間スペシャル）|
 | [\#1](https://youtu.be/8ooCDoHvgA0) |2021/05/21| <mc-avatar user="a1f8207cdbaa426d92a438c6d0f3c570" />[あるふぁ](https://wiki.freeserver.pro/admins/alphakun.html)| 運営ラジオ、始めました。       |\-                                                                              |
 | [\#2](https://youtu.be/Oen8p0ooUUw) |2021/05/28|<mc-avatar user="81e123bc72964a59a7ee3aabdedf2d91" /> [てれるん](https://wiki.freeserver.pro/admins/tererun.html)| 続・運営ラジオ| \-                                                                              |
 | [\#3](https://youtu.be/4JdTDt8RSgE) |2021/06/04 | <mc-avatar user="2e229038a943426cb50fb34b86b03de8" /> [南カナ](https://twitter.com/mc_minamikana)| 鯖の味噌煮缶より味噌の鯖煮缶。    | \-                                                                              |
