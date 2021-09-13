@@ -10,7 +10,7 @@ description: "FREESERVER内にて土地を保護する方法"
 
 ## 詳しい使い方
 ![](https://i.imgur.com/tV9MBkq.jpg)
-この建造物を保護したい場合，赤か青どっちかから左クリック，左クリックしてない方を，右クリックして，`//expand vert`を打って，`/rg claim <保護名>`打てば保護してくれる有能プラグイン。
+この建造物を保護したい場合，赤か青どっちかから左クリック，左クリックしてない方を，右クリックして，`//expand vert`を打って，`/rg claim <保護名>`と打てば保護してくれる有能プラグイン。
 
 ## 保護の解説動画
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TSzUAPYouX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
