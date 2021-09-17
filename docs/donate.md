@@ -25,7 +25,7 @@ description: 寄付について
 ### Stripeを使用して寄付をする
 
 [Stripe](https://stripe.com/jp)を使用してして寄付できます。
-Kyashだけではなくいろいろなクレジットカードを使用してして寄付することができます。
+Kyashだけではなく，`Visa`,`MasterCard`,`AmericanExpress`のクレジットカードを使用してして寄付することができます。
 [こちら](https://link.freeserver.pro/stripe)のページから寄付できます。よろしくおねがいします！！
 
 
