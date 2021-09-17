@@ -33,7 +33,7 @@ description: 運営に応募するための手順が書いてあります
 
 ##### [MineIdea](https://mineidea.net/projects/73)からの応募
 
-1. [FREESERVERのプロジェクトページ](https://mineidea.net/projects/73)にアクセス！
+1. [FREESERVERのページ](https://mineidea.net/projects/73)にアクセス！
 2. もう一回，必須要件を読み直す。
 3. 「応募方法」の下のGoogleフォームのリンクにアクセス。
 4. 必要事項を記入後，送信！
