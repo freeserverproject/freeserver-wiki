@@ -6,6 +6,9 @@ description: 寄付について
 # 寄付
 
 ## 方法
+
+### Kyashで寄付をする
+
 1. Kyashアプリをインストールする
 
 [![](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95d99ca2641607a3057_button-store-applestore.svg)](https://app.appsflyer.com/id1084264883?pid=Publicweb&c=footer) [![](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95e557e7d6e694579ac_button-store-googleplay.svg)](https://app.appsflyer.com/co.kyash?pid=Publicweb&c=footer)
@@ -18,6 +21,13 @@ description: 寄付について
 5. FREESERVERと表示されたのを確認して，右下の`送金`をタップしてください。
 6. 寄付額を指定し，`送金`をタップしてください。
 7. 寄付ありがとうございました！
+
+### Stripeを使用して寄付をする
+
+[Stripe](https://stripe.com/jp)を使用してして寄付できます。
+Kyashだけではなくいろいろなクレジットカードを使用してして寄付することができます。
+[こちら](https://link.freeserver.pro/stripe)のページから寄付できます。よろしくおねがいします！！
+
 
 ## 寄付特典
 - サーバー存続に貢献できる。
