@@ -26,7 +26,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 ## 許可済みMod
 
 | 名前                                                                                                        | 前提mod        | 概要                                                                                                                              | ミニゲームでの使用可否 |
-| --------------------------------------------------------------------------------------------------------- | ------------ | ------------------------------------------------------------------------------------------------------------------------------- | ----------- |
+| --- | --- | --- | --- |
 | [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)                                         | Forge/Fabric | ミニマップMod。                                                                                                                       | ×           |
 | [AppleSkin ](https://www.curseforge.com/minecraft/mc-mods/appleskin)                                      | Forge/Fabric | 食料の回復量等を確認できるMod。                                                                                                               |             |
 | [BetterPvP ](https://chocolateminecraft.com/betterpvp2.php)                                               | Forge/Fabric | ミニマップや、防具耐久値表示、ポーション効果の表示                                                                                                       | ×           |
@@ -45,11 +45,12 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)                   | Forge        | 進捗の拡張                                                                                                                           |             |
 | [ItemZoom](https://www.curseforge.com/minecraft/mc-mods/itemzoom)                                         | Forge        | インベントリ画面でのアイテムズーム可能化                                                                                                            |             |
 | [Inventory HUD+](https://www.curseforge.com/minecraft/mc-mods/inventory-hud-forge)                        | Forge/Fabric | プレイ中のインベントリ表示等                                                                                                                  |             |
-| [Crafting Tweaks](https://curseforge.com/minecraft/mc-mods/crafting-tweaks)                               | Forge        | 作業台の拡張                                                                                                                          |             |
-| [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)                                 | Forge        | マウス操作拡張                                                                                                                         |             |
-| [Hwyla](https://curseforge.com/minecraft/mc-mods/hwyla)                                                   | Fabric       | ブロック破壊時の適正ツール表示等                                                                                                                |             |
+| [Crafting Tweaks](https://curseforge.com/minecraft/mc-mods/crafting-tweaks)| Forge| 作業台の拡張| |
+| [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)| Forge | マウス操作拡張||
+| [Hwyla](https://curseforge.com/minecraft/mc-mods/hwyla)| Fabric| ブロック破壊時の適正ツール表示等||
 | [Wowla](https://curseforge.com/minecraft/mc-mods/wawla)                                                   | Forge        | 追加情報の収集+表示                                                                                                                      |             |
 | [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)                 | Forge        | [Waila](https://minecraft.curseforge.com/projects/waila)または[Hwyla](https://minecraft.curseforge.com/projects/hwyla)のクライアント側アドオン |             |
+|[The 5Zig Mod](https://github.com/5zig-reborn/deployments/tree/1.16)|Fabric|現在1.16.*はβ版。||
 
 ## 禁止Mod
 
