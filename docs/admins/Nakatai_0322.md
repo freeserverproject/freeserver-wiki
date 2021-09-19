@@ -34,6 +34,11 @@ sidebar: true
 | 2020 | 10  | 8   | Builderとして運営就任 |
 | 2020 | 11  | 9   | Wiki Editorへ転向 |
 
+## これまでしでかしたこと
+
+- 建築担当になったがほとんど何もやってない
+- 誤って`/kill @e`を実行し，首脳陣の手を焼かせる 
+
 ## PC環境
 
 [こちら](https://www.geartics.com/Nakatai_0322)を参照

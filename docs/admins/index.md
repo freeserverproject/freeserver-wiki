@@ -24,7 +24,7 @@ sidebar: true
 |^^        |^^                  | <mc-avatar user="0c12094a3d5341f091b34c1866d66151" /> | [reiwarm](reiwarm)                   | 2019/08/20 | |
 |^^        |^^                  | <mc-avatar user="3d69d517b66e449188f414f5031e62b8" /> | [syubarium](syubarium)               | 2017/12/27 | |
 |^^        |^^                  | <mc-avatar user="0d0873eb4f0f4df9b75eaaf96cb7a66c" /> | [Takenoha](Takenoha)                 | 2020/05/09 | |
-|^^        | Wiki Editor        | <mc-avatar user="d297f52003024e5d944fd78edc82891a" /> | [Nakatai_0322](Nakatai_0322)         | 2020/10/08 | |
+|^^        | Wiki Editor        | <mc-avatar user="d297f52003024e5d944fd78edc82891a" /> | [Nakatai_0322](Nakatai_0322)         | 2020/10/08 |Wikiおぢさん|
 |^^        |^^                  | <mc-avatar user="ea340bb4e5944837859815fe77c6cf30" /> | [Nikuzuki](Nikuzuki)                 | 2020/12/08 | |
 | Staff    | 該当なし                                                                                                       |||||
 
