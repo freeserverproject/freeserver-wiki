@@ -98,14 +98,16 @@ Markdownの中にHTMLを使うことは出来ますが、見た目上の問題�
 
 ![](https://i.imgur.com/zjHxHNJ.png)
 
-更に， 
-    Give your post title... 
+更に，
+    Give your post title...
 の下の画像を右クリックして，画像のリンクをコピーというボタンをクリックすると，その画像へのリンクがクリップボードにコピーされます。
 
 そして，Wikiのコードに
-```![]()```と入力し，右の括弧の中に先ほどコピーしたURLをペーストしてください。
+```Markdown
+![]()
+```
+と入力し，右の括弧の中に先ほどコピーしたURLをペーストしてください。
 
 ※参考動画
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/1IVctVQfUW4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
