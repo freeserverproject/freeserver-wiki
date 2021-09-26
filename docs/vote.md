@@ -25,3 +25,12 @@ description: FREESERVERへの投票の方法などが書いてあります！
 ![](https://i.imgur.com/8SqxX2P.png)
 
 <a href="https://minecraft.jp/servers/play.freeserver.pro"><img src="https://minecraft.jp/servers/play.freeserver.pro/banner/1/560x95.png"/></a>
+
+## 交換できるもの
+||||
+| :---: | :---: | :---: |
+| 投票コイン100個 | → | レッドストーンのツルハシ |
+| 投票コイン4個/ログインボーナスコイン4個 | → | [魔法のほうき](item/broom) |
+| 投票コイン6個 | → | ビッグバーガー |
+| 投票コイン | → | 投票の羽 |
+| ログインボーナスコイン| ⇿ |ログインボーナスの鍵石|
