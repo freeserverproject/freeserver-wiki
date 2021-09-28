@@ -10,7 +10,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ご不明な点等ありましたらこちらを参照ください!!
 
-記事は，[Wiki Editor](http://wiki.freeserver.pro/admins#Wiki%20Editor)(現在数2人)などにより随時拡充中です！
+記事は，[Wiki Editorなど](about-wiki)により随時拡充中です！
 
 ## 目次
 
@@ -74,19 +74,16 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 ### その他
 
 * [投票](vote)
+* [寄付](donate)
 * [アイテムの受け渡し方](how-to/senditem)
-
-### 〇〇について
-
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
-* [寄付について](donate)
 
 ## 関連リンク
 
 | リンク名                    | リンク                                                      |
-| ----------------------- | -------------------------------------------------------- |
+| --- | --- |
 | オフィシャルサイト               | https://www.freeserver.pro/                              |
 | 公式YouTubeチャンネル          | https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g |
 | 公式Twitter               | https://twitter.com/FREESERVERP                          |
@@ -95,7 +92,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 | monocraft               | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U   |
 | 利用規約                    | https://freeserver.pro/#/tos                             |
 | 公式Discordコミュニティ         | https://www.discord.gg/WudKwEj                           |
-| サーバーの詳細情報               | https://plan.freeserver.pro/                             |
+| サーバーの詳細情報 | https://plan.freeserver.pro/ |
 
 ## Discordウィジェット
 
