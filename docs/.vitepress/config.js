@@ -18,7 +18,12 @@ module.exports = {
 			{ text: 'トップ', link: '/' },
 			{ text: 'プライバシーポリシー', link: '/privacy-policy.html' },
 			{ text: '初心者指南', link: '/beginners-guide.html' }
-		]
+		],
+		algolia: {
+			appId: 'CPPGR9UZ5R',
+      apiKey: '4c058eb492546b15dd53c1effc396048',
+      indexName: 'prod_freeserver-wiki'
+    }
 	},
 	markdown: {
 		config: (md) => {
