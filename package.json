@@ -13,7 +13,8 @@
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
-    "docs:serve": "sudo vitepress serve docs --port 80 --host"
+    "docs:serve": "sudo vitepress serve docs --port 80 --host",
+    "generate-sitemap": "node ./scripts/generate.js"
   },
   "author": "tsutoringo (https://github.com/tsutoringo)"
 }
