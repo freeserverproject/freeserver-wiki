@@ -26,6 +26,10 @@ description: 運営に応募するための手順が書いてあります
 | 翻訳担当| サーバーの多言語対応 | 語学知識（任意）|
 | プログラム担当(Developer) | Spigotプラグインの制作| Minecraft Spigotプラグインの作成経験 |
 
+### 参考（組織図）
+
+![](https://i.imgur.com/ECdl9B3.jpg)
+
 ## 応募方法
 
 #### 方法I
