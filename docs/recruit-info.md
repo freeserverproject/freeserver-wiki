@@ -28,7 +28,7 @@ description: 運営に応募するための手順が書いてあります
 
 ### 参考（組織図）
 
-![](https://i.imgur.com/ECdl9B3.jpg)
+![](https://i.imgur.com/3YO0Tr2.jpeg)
 
 ## 応募方法
 
