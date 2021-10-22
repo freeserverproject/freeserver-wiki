@@ -92,7 +92,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 | Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro         |
 | monocraft               | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U   |
 | 利用規約                    | https://freeserver.pro/#/tos                             |
-| 公式Discordコミュニティ         | https://www.discord.gg/WudKwEj                           |
+| 公式Discordコミュニティ         | https://link.freeserver.pro/discord                           |
 | サーバーの詳細情報 | https://plan.freeserver.pro/ |
 
 ## Discordウィジェット
