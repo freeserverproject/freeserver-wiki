@@ -26,6 +26,7 @@ sidebar: true
 |^^        |^^                  | <mc-avatar user="0d0873eb4f0f4df9b75eaaf96cb7a66c" /> | [Takenoha](Takenoha)                 | 2020/05/09 | |
 |^^        | Wiki Editor        | <mc-avatar user="d297f52003024e5d944fd78edc82891a" /> | [Nakatai_0322](Nakatai_0322)         | 2020/10/08 |Wikiおぢさん|
 |^^        |^^                  | <mc-avatar user="ea340bb4e5944837859815fe77c6cf30" /> | [Nikuzuki](Nikuzuki)                 | 2020/12/08 | |
+|^^        |^^                  | <mc-avatar user="06e9b34d6fb34d34ba05f2b258f75b50" /> | [jinseimendoi](Nikuzuki)(Ueki)![New](https://i.imgur.com/PTTygYc.gif)| 2021/11/03 | |
 | Staff    | 該当なし                                                                                                       |||||
 
 ## 絶賛運営募集中！
