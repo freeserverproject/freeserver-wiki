@@ -28,7 +28,7 @@ description: 運営に応募するための手順が書いてあります
 
 ### 参考（組織図）
 
-![FREESERVER's 組織図](https://i.imgur.com/3YO0Tr2.jpeg)
+![FREESERVER's 組織図](https://i.imgur.com/cz7KItk.png)
 
 ## 応募方法
 
