@@ -80,6 +80,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
+* [メニューについて](menu.md)
 
 ## 関連リンク
 
