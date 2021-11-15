@@ -30,7 +30,6 @@ sidebar: true
 - 歌のリクエスト（著作権等の観点から）
 - その他運営が不適切と判断するもの
 
-※
 
 ![](https://i.imgur.com/uHz8wYp.png)
 
