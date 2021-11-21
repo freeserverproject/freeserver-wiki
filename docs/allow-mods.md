@@ -51,7 +51,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | [Wowla](https://curseforge.com/minecraft/mc-mods/wawla)                                                   | Forge        | 追加情報の収集+表示                                                                                                                      |             |
 | [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)                 | Forge        | [Waila](https://minecraft.curseforge.com/projects/waila)または[Hwyla](https://minecraft.curseforge.com/projects/hwyla)のクライアント側アドオン |             |
 |[The 5Zig Mod](https://github.com/5zig-reborn/deployments/tree/1.16)|Fabric|現在1.16.*はβ版。||
-|[The One Prode](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|Forge|||
+|[The One Prode](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|Forge|Wailaの没入型バージョン||
 
 ## 禁止Mod
 
