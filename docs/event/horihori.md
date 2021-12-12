@@ -34,8 +34,8 @@ description: "ミニゲーム HoriHori について"
 | <item-sprite name="water-bottle"/>                    スピードポーション      | 300pt              | 1分間の移動速度上昇効果付与                |
 | <item-sprite name="water-bottle"/>                    スーパースピードポーション  | 600pt              | 3分間そこそこ速い移動速度上昇効果付与           |
 | <item-sprite name="water-bottle"/>                    ハイパースピードポーション  | 750pt              | 4分間かなりの移動速度上昇効果付与             |
-| <item-sprite name="lingering-potion-of-slow-falling"/>ポイントアップポーション   |  |       2分間獲得ポイントが1.2倍効果付与                        |
-| <item-sprite name="lingering-potion-of-slow-falling"/>ポイントアップポーションv3 |  |5分間獲得ポイントが1.8倍効果付与 |
+| <item-sprite name="lingering-potion-of-slow-falling"/>ポイントアップポーション   | 300pt               |       2分間獲得ポイントが1.2倍効果付与                        |
+| <item-sprite name="lingering-potion-of-slow-falling"/>ポイントアップポーションv3 | 700pt               |5分間獲得ポイントが1.8倍効果付与 |
 
 ## 鉱石のポイント配分について
 
