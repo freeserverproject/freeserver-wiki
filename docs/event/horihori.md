@@ -23,34 +23,34 @@ description: "ほりほり について"
 
 | 取引できるもの        | 必要ポイント             | 備考                            |
 | -------------- | ------------------ | ----------------------------- |
-| プロピッケル         | 200pt              | ダイヤのツルハシ                      |
-| プロピッケル Advance | 500pt              | ダイヤのツルハシで，取得ポイントが1.5倍になります。   |
-| マニアピッケル        | 1200pt             | ネザライトピッケルで，取得できるポイントが2倍になります。 |
-| はつりハンマー        | 500pt              | 壁を一回だけ壊すことができます。              |
-| 磁石             | 500pt              | 石炭・鉄を集めることができます。              |
-| マグナム磁石         | 780pt              | すべての鉱石を集めることができます。            |
-| ハイパーマグナム鉱石     | 1000pt             | すべての鉱石を比較的広範囲で集めることができます。     |
-| プレイヤースワッパー     | 300pt              | ランダムに人と入れ替わることができます。          |
-| スピードポーション      | 300pt              | 1分間の移動速度上昇効果付与                |
-| スーパースピードポーション  | 600pt              | 3分間そこそこ速い移動速度上昇効果付与           |
-| ハイパースピードポーション  | 750pt              | 4分間かなりの移動速度上昇効果付与             |
-| ポイントアップポーション   |  |       2分間獲得ポイントが1.2倍効果付与                        |
-| ポイントアップポーションv3 |  |5分間獲得ポイントが1.8倍効果付与 |
+| <item-sprite name="diamond-pickaxe"/> プロピッケル         | 200pt              | ダイヤのツルハシ                      |
+| <item-sprite name="diamond-pickaxe"/> プロピッケル Advance | 500pt              | ダイヤのツルハシで，取得ポイントが1.5倍になります。   |
+| <item-sprite name="netherite-pickaxe"/> マニアピッケル        | 1200pt             | ネザライトピッケルで，取得できるポイントが2倍になります。 |
+| <item-sprite name="golden-pickaxe"/> はつりハンマー        | 500pt              | 壁を一回だけ壊すことができます。              |
+| <item-sprite name="iron-ingot"/> 磁石             | 500pt              | 石炭・鉄を集めることができます。              |
+| <item-sprite name="netherite-ingot"/> マグナム磁石         | 780pt              | すべての鉱石を集めることができます。            |
+| <item-sprite name="netherite-ingot"/> ハイパーマグナム鉱石     | 1000pt             | すべての鉱石を比較的広範囲で集めることができます。     |
+| <item-sprite name="minecart"/> プレイヤースワッパー     | 300pt              | ランダムに人と入れ替わることができます。          |
+| <item-sprite name="water-bottle"/> スピードポーション      | 300pt              | 1分間の移動速度上昇効果付与                |
+| <item-sprite name="water-bottle"/> スーパースピードポーション  | 600pt              | 3分間そこそこ速い移動速度上昇効果付与           |
+| <item-sprite name="water-bottle"/> ハイパースピードポーション  | 750pt              | 4分間かなりの移動速度上昇効果付与             |
+| <item-sprite name="lingering-potion-of-slow-falling"/> ポイントアップポーション   | 300pt              |       2分間獲得ポイントが1.2倍効果付与                        |
+| <item-sprite name="lingering-potion-of-slow-falling"/> ポイントアップポーションv3 | 700pt              |5分間獲得ポイントが1.8倍効果付与 |
 
 ## 鉱石のポイント配分について
 
 | 鉱石      | ポイント |
 | ------- | ---- |
-| 石炭      | 5pt  |
-| 鉄       | 15pt |
-| レッドストーン | 45pt |
-| ラピスラズリ  | 60pt |
-| 金       | 70pt |
-| エメラルド   | 100  |
-|     ダイヤモンド    |  150pt    |
+| <block-sprite name="coal-ore"/> 石炭      | 5pt  |
+| <block-sprite name="iron-ore"/> 鉄       | 15pt |
+| <block-sprite name="redstone-ore"/> レッドストーン | 45pt |
+| <block-sprite name="lapis-ore"/> ラピスラズリ  | 60pt |
+| <block-sprite name="gold-ore"/> 金       | 70pt |
+| <block-sprite name="emerald-ore"/> エメラルド   | 100  |
+| <block-sprite name="diamond-ore"/> ダイヤモンド    |  150pt    |
 
 ## 注意事項 :warning:
 
 * 時々テレポートしたときにブロックに埋まることがあるのでその時は，ジャンプして脱出するか，再ログインしてください。
-* 途中参加は，可能です。皆さん振るってご参加ください！
+* 途中参加は，可能です。皆さん奮ってご参加ください！
 
