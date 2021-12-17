@@ -26,6 +26,10 @@ description: 運営に応募するための手順が書いてあります
 | 翻訳担当| サーバーの多言語対応 | 語学知識（任意）|
 | プログラム担当(Developer) | Spigotプラグインの制作| Minecraft Spigotプラグインの作成経験 |
 
+### 参考（組織図）
+
+![FREESERVER's 組織図](https://i.imgur.com/cz7KItk.png)
+
 ## 応募方法
 
 #### 方法I
@@ -42,7 +46,7 @@ description: 運営に応募するための手順が書いてあります
 
 ##### [公式HP](https://freeserver.pro/)からの応募
 1. 一番下の，[`運営募集`](https://freeserver.pro/#/join-us)ページを開く。
-2. 画面の支持に従ってGoogleフォームのリンクにアクセス。
+2. 画面の指示に従ってGoogleフォームのリンクにアクセス。
 3. 必要事項を記入後，送信！
 4. 当サーバー幹部運営(Owner,SubOwner等)から連絡が行くと思われますので，指示に従って面接を受験。（場合によりますが，面接は行われない可能性があります。）
 

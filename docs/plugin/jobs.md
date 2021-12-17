@@ -20,8 +20,9 @@ Jobsとは，Minecraftに職業の概念を追加するプラグインで，Jobs
 - Woodcutter（木こり）
 - Digger（掘削作業者）
 - Brewer（ポーション醸造師）
-- Crafter
-がある。
+- Crafter（アイテムメーカー）
+
+があります。
 
 ## 職業に就くにはどうしたらいいの？
 

@@ -28,6 +28,12 @@ description: 寄付について
 Kyashだけではなく，`Visa`,`MasterCard`,`AmericanExpress`のクレジットカードを使用してして寄付することができます。
 [こちら](https://link.freeserver.pro/stripe)のページから寄付できます。よろしくおねがいします！！
 
+>"VISA"は，ビザ・インタ―ナショナル・サ―ビス・アソシエイションの登録商標です。
+>
+>"MasterCard"は，MasterCard International Incorporatedの商標または登録商標です。
+>
+>"AmericanExpress"は，American Express Companyの商標または登録商標です。
+
 
 ## 寄付特典
 - サーバー存続に貢献できる。

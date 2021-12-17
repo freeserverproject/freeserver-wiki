@@ -60,6 +60,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 **[解説ページのあるプラグイン一覧](plugin/)**
 
+* **[保護の仕方](plugin/how-to-protect.md)**
 * **[WorldGuard](plugin/worldguard)**(土地保護PL)
 * **[BlockLocker](plugin/blocklocker)**(簡易保護PL)
 * **[Jobs](plugin/jobs)**(職業追加PL)
@@ -79,6 +80,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
+* [メニューについて](menu.md)
 
 ## 関連リンク
 
@@ -91,7 +93,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 | Japan Minecraft Servers | https://minecraft.jp/servers/play.freeserver.pro         |
 | monocraft               | https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U   |
 | 利用規約                    | https://freeserver.pro/#/tos                             |
-| 公式Discordコミュニティ         | https://www.discord.gg/WudKwEj                           |
+| 公式Discordコミュニティ         | https://link.freeserver.pro/discord                           |
 | サーバーの詳細情報 | https://plan.freeserver.pro/ |
 
 ## Discordウィジェット

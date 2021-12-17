@@ -50,7 +50,7 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 
 ### Item Sprite
 ```html
-<item-sprite name="snowball" :scale="1">
+<item-sprite name="snowball" :scale="1" />
 ``` 
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |

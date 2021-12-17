@@ -7,7 +7,7 @@ sidebar: true
 
 FREESERVERでは当然ながらすべてのModやクライアントを許可しているわけではありません。
 
-サーバー内で使用したいModやクライアントがある場合は，以下の一覧から確認し，見当たらない場合は[FREESERVER公式Discord](https://www.discord.gg/WudKwEj)内のチケットを発行し申請を行ってください
+サーバー内で使用したいModやクライアントがある場合は，以下の一覧から確認し，見当たらない場合は[FREESERVER公式Discord](/discord)内のチケットを発行し申請を行ってください
 
 **当サーバーではOptifineの導入を推奨しています。**
  但し、Optifineを始めとするModを導入したことによるいかなる損害も当サーバーにて責任を負うことはできません。
@@ -51,6 +51,30 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | [Wowla](https://curseforge.com/minecraft/mc-mods/wawla)                                                   | Forge        | 追加情報の収集+表示                                                                                                                      |             |
 | [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)                 | Forge        | [Waila](https://minecraft.curseforge.com/projects/waila)または[Hwyla](https://minecraft.curseforge.com/projects/hwyla)のクライアント側アドオン |             |
 |[The 5Zig Mod](https://github.com/5zig-reborn/deployments/tree/1.16)|Fabric|現在1.16.*はβ版。||
+|[The One Prode](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|Forge|Wailaの没入型バージョン||
+
+## PvPクライアントなどの関する扱いに関して
+
+PvPクライアントは，様々なMod（軽量化Modなど）が抱き合わせられて配布されています。
+
+我々は，その内包されたModを精査して許可を出すことを決定しています。
+
+以下，現在明示的に許可されているPvPクライアントを列挙します。[^Ownerの発言より1]
+
+[^Ownerの発言より1]: https://discord.com/channels/393963617604861952/458149500423241738/820957463092133889
+
+| 名称                  | ホームページ                         |
+| ------------------- | ------------------------------ |
+| Lunar Client        | <https://www.lunarclient.com/> |
+| BadLion Client      | https://client.badlion.net/    |
+| Hypirium （**開発終了**） | https://hyperium.cc/           |
+
+
+## その他非公式ランチャー等について
+
+非公式ランチャー（MultiMCなど）等に関しましては，上記の，許可Mod等を使用し，なおかつ，正式なアカウント（ALTアカウント等以外）を使用している場合に限り，我々はその使用を許可します。[^Ownerの発言より2]
+
+[^Ownerの発言より2]: https://discord.com/channels/393963617604861952/458149500423241738/831081972461338654
 
 ## 禁止Mod
 
