@@ -46,6 +46,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [各種魚](item/addfish)
 * [フィギュア](item/figure)
 * [バンドル](item/bundle)
+* [バックパック](item/backpack)
 
 ### イベント関係
 
