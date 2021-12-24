@@ -21,6 +21,11 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * **[初めての方へ](beginners-guide)**
 * **[Discordコミュニティについて](discord)**
 
+
+### 生活情報
+
+* [Mobトラップ一覧](world/mobトラップ一覧.md)
+
 ### ワールド紹介
 
 * [メインワールド](world/main)
