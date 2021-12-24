@@ -24,7 +24,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### 生活情報
 
-* [Mobトラップ一覧](world/mobトラップ一覧)
+* [Mobトラップ一覧](world/mobtrap)
 
 ### ワールド紹介
 
