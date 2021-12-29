@@ -5,8 +5,6 @@ sidebar: true
 ---
 # Nakatai_0322
 
-<img src="https://pbs.twimg.com/profile_banners/1309410702885416960/1637638285/1500x500" alt="Twitter Banner" width="500">
-
 ## はじめに
 
 どうも，皆さんはじめまして。
@@ -21,11 +19,11 @@ sidebar: true
 
 性別:男性
 
-誕生日:3月22日 牡羊座
+生年月日・星座:yyyy年3月22日 牡羊座
 
 血液型:A型(RH+)
 
-出身地・居住地:岐阜県のどっか（よく田舎者をバカにされる...）
+出身地・居住地:日本国 岐阜県のどっか（美濃地方）
 
 [もっと見る](https://vprof.me/@/Nakatai_0322)
 
@@ -47,11 +45,13 @@ sidebar: true
 
 ## 連絡先
 
-Twitter:https://twitter.com/Nakatai0322
+Twitter:https://twitter.com/Nakatai_0322
 
-プロフ:https://profcard.info/u/msr0FgH8afOQZ05dfUaS6FXoKlL2
+プロフ:https://go.nakatai.ga/pr
 
-公式HP:https://wp.me/PbVDZ3-2W
+ブログ:https://blog.nakatai.ga
+
+公式HP:https://nakatai.ga
 
 GitHub:https://github.com/Nakatai-0322
 
