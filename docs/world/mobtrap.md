@@ -21,7 +21,7 @@ sidebar: true
 
 | トラップのMob | 座標(x,y)    | 設置者(敬称略)    | 備考                   |
 | -------- | ---------- | ----------- | -------------------- |
-| ブレイズ | [(-170,330)](https://pl3x.freeserver.pro/?world=world_nether&zoom=4&x=-170&z=330]) | k0ha | `/warp ブレイズTT`でワープ可能 |
+| ブレイズ | [(-170,330)](https://pl3x.freeserver.pro/?world=world_nether&zoom=4&x=-170&z=330) | k0ha | `/warp ブレイズTT`でワープ可能 |
 | ウィザースケルトン | [(380, 110)](https://pl3x.freeserver.pro/?world=world_nether&zoom=4&x=380&z=110) | gray27 | `/warp ウィザスケ狩場`でワープ可能 |
 
 ※その他情報お持ちの方いらっしゃいましたらDiscord`Nakatai_0322#6872`までお願いします！
