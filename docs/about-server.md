@@ -1,5 +1,5 @@
 ---
-title: "フリーサーバーについて"
+title: "FREESERVERについて"
 description: FREESERVERについて詳細な情報が書かれています
 ---
 
