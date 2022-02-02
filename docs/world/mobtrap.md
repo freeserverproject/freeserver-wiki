@@ -16,6 +16,7 @@ sidebar: true
 | ゾンビ | [(260, 40)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=260&z=40) | gray27   |     |
 | クモ | [(-695, -445)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=-695&z=-445) | harisenbomb | 愛称「クモーン」|
 | クリーパー | [(3300, 1660)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=3300&z=1660) | 運営 | `/warp クリーパーTT`でワープ可能 |
+| ガーディアン | [(1200, 1085)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=1200&z=1085) | gray27 | |
 
 ## ネザーワールド
 
