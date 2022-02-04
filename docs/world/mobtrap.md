@@ -11,7 +11,7 @@ sidebar: true
 
 ## メインワールド
 
-| トラップのMob  | 座標(x, y)    | 設置者(敬称略) | 備考  |
+| トラップのMob  | 座標(x, z)    | 設置者(敬称略) | 備考  |
 | --------- | ---------- | -------- | --- |
 | スケルトン | [(-620, -70)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=-620&z=-70) |     gray27     |     |
 | ゾンビ | [(260, 40)](https://pl3x.freeserver.pro/?world=world&zoom=3&x=260&z=40) | gray27   |     |
