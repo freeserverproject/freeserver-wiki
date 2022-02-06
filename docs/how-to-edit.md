@@ -12,8 +12,6 @@ sidebar: true
 
 まず，Wikiの管理に使用する，"GitHubアカウント"を作成しましょう。
 
-[`github.com/signup`](https://github.com/signup)にアクセスし，画面の指示に従ってアカウントを作成しましょう。
-
 アカウントの作成に関してはWeb上に情報が存在しますので，それを参考に進めてください。
 
 GitHubは英語で分かりにくいかもしれませんが，翻訳サイトなどを使って頑張ってみてください。
@@ -37,6 +35,16 @@ GitHubは英語で分かりにくいかもしれませんが，翻訳サイト�
 
 チェックを入れることができたら，いよいよ本番の執筆です。
 
+## 用語解説
+
+この説明でわからなかった方はGoogleなどで検索してみてください。
+
+| 用語                    | 解説                                             |
+| プルリクエスト（Pull request）| 修正した際，本番環境への反映を別の誰かに要請する機能                     |
+| レポジトリ                 | コンピューターの「フォルダー」のようなもので，データをしまうところ              |
+| コミット（Commit）          | 追加や変更したファイルをGitHubに持っていき，GitHubの方で変更すること       |
+| フォーク                  | GitHubで，べつの人のレポジトリを複製すること（この記事では自分のところに複製すること） |
+
 ## 執筆作業
 
 執筆を行うには，いくつかの方法がありますが，今回はGitHubで直接執筆を行う方法と`Visual Studio Code`及び`GitHub Desktop`を使って執筆を行う方法を紹介します。
@@ -53,10 +61,40 @@ Forkできたら，`Nakatai-0322/freeserver-wiki`のように`{アカウント�
 
 そのレポジトリを編集して，本番環境の`freeserver-project/freeserver-wiki`に変更を持っていくという感じです。
 
+#### 編集する場合
+
 編集したい内容にもよりますが，今回は例として`docs/menu.md`（「メニューについて」の記事）を編集します。
 
 ![WikiRepo](https://i.imgur.com/sTuirHh.png)
 
-レポジトリを開き，
+レポジトリを開き，該当の記事の元ファイルを探しましょう。
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wsWQhDu9P0I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+![Edit this file](https://i.imgur.com/IJ2lSfJ.png)
+
+ペンのマークのボタンをクリックして，編集します。
+
+編集が終了したら，ページの下に`Commit Changes`というボタンがありますので，クリックしてコミットします。
+
+コミットできたら自分がフォークしたレポジトリに戻って，`Contribute`と書かれたボタンがあるのでクリックします。
+
+![contribute](https://i.imgur.com/KzT9036.png)
+
+すると，`Open pull request`と書かれたボタンが出てきますので，クリックします。
+
+![Open pull request](https://i.imgur.com/OXlQ3Qk.png)
+
+`Comparing changes`という画面に移動します。
+
+自分のした変更が確認できますので，確認したら`Create pull request`と書かれたボタンをクリックします。.
+
+![Create pull request](https://i.imgur.com/wwZYmuE.png)
+
+`Open a pull request`という画面に移動しますので分かりやすいプルリクエスト名にして，必要であれば変更内容を書いたコメントを書きましょう。
+
+プルリクエストが作成できたらサーバー運営からのチェックを受けて正式にWikiの方に反映されます。
+
+※反映するにあたって修正依頼が来る可能性があります。
+
+どこがいけないのかを確認し，それに合わせて自分のフォークしたレポジトリを確認しましょう。
