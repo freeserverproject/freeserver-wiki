@@ -4,22 +4,27 @@ description: FREESERVER Wikiを書く際に心がけてほしいこと
 sidebar: true
 ---
 # Guideline for editor
+
 このページはWikiを編集するときに
 統一, 注意してほしいことが書いてありますので
 このガイドラインに基づいて書いてください。
 
 ## 解説ページ内に写真を添付する際
+
 ### 写真内には紹介するもの以外の情報を載せないこと
+
 写真内に紹介するもの以外の情報があると何を説明したいのかわからなくなってしまいます。  
 そのため、なるべく説明したい対象をクローズアップし、その他の要素を排除した画像にしてください。
 
 - **とっても悪い例**  
+
 タスクバーなど不要な要素が多数存在しています。  
 また、撮影対象からも遠く何を被写体としているのかわかりません。  
-![](https://i.imgur.com/AHgVlSk.png)
+![悪い例](https://i.imgur.com/AHgVlSk.png)
 
 - **良い例**  
-![](https://i.imgur.com/vTv3TLz.png)
+
+![良い例](https://i.imgur.com/vTv3TLz.png)
 
 ### Minecraft内でのスクリーンショットを載せる際の注意点
 
@@ -33,14 +38,16 @@ sidebar: true
 何を見せたいのか、何を見せているのか、それを考えて撮影しましょう。
 
 ## コマンドの表記
+
+```plaintext
+/rg claim <保護名>
 ```
-`/rg claim <保護名>`
-```
-と書くと`/rg claim <保護名>`
+のように書くと`/rg claim <保護名>`
 
 このように表示されますので\`でコマンドを囲んでください
 
 ### 引数を書くとき
+
 いい例: `/rg claim <保護名>`
 
 悪い例: `/rg claim {保護名}` `/rg claim [保護名]`
@@ -84,6 +91,7 @@ sidebar: true
 ---
 
 を使いましょう。
+
 ## なるべくMarkdownを使おう
 
 Markdownの中にHTMLを使うことは出来ますが、見た目上の問題ゆえ、Markdownで書けるところはなるべくMarkdownで書けるようにしましょう。
@@ -92,11 +100,11 @@ Markdownの中にHTMLを使うことは出来ますが、見た目上の問題�
 
 画像はImgurを使って添付するようにしましょう。
 
-添付する方法は，まず，画像を用意したら，https://imgur.com に行って，撮影した画像をページ枠内にドラックアンドドロップします。
+添付する方法は，まず，画像を用意したら，<https://imgur.com> に行って，撮影した画像をページ枠内にドラックアンドドロップします。
 
 そうしたら，下のような画面になると思われます。
 
-![](https://i.imgur.com/zjHxHNJ.png)
+![Imgur](https://i.imgur.com/IWoPoD7.png)
 
 更に，
     Give your post title...
