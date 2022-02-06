@@ -21,6 +21,7 @@ GitHubは英語で分かりにくいかもしれませんが，翻訳サイト�
 アカウントが作成できたら，最低限の設定を行います。
 
 [`github.com`](https://github.com)にアクセスし，右上のプロフィール画像をクリックしてメニューを開き`Settings`をクリックします。
+
 ![GitHub](https://i.imgur.com/v8Wwmz3.png)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EyF5tIkKlsY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
