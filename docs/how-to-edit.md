@@ -65,7 +65,7 @@ Forkできたら，`Nakatai-0322/freeserver-wiki`のように`{アカウント�
 
 #### 編集する場合
 
-編集したい内容にもよりますが，今回は例として`docs/menu.md`（「メニューについて」の記事）を編集します。
+編集の方法は内容にもよりますが，今回は例として`docs/menu.md`（「メニューについて」の記事）を編集します。
 
 ![WikiRepo](https://i.imgur.com/sTuirHh.png)
 
