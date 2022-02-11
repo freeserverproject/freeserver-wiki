@@ -4,7 +4,7 @@
   "description": "wiki for freeserver",
   "main": "index.js",
   "dependencies": {
-    "markdown-it-multimd-table": "^4.1.0",
+    "markdown-it-multimd-table": "^4.1.3",
     "markdown-it-scrolltable": "^0.1.6"
   },
   "devDependencies": {
