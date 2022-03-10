@@ -28,7 +28,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### ワールド紹介
 
-* [メインワールド](world/main)
+* [メインワールド](world/main/)
 * [資源ワールド](world/shigen)
 * [整地ワールド](world/seichi)
 * [地上絵ワールド](world/art-world)
