@@ -11,7 +11,7 @@ FREESERVERには，当記事執筆時点で4つのワールドが存在します
 
 |  ワールド名  |  説明  |
 | ---- | ---- |
-|[メインワールド](./main)|スポーンしたときのワールド。|
+|[メインワールド](./main/)|スポーンしたときのワールド。|
 |[資源ワールド](https://wiki.freeserver.pro/world/shigen.html)|資源採集のためのワールド。|
 |[整地ワールド](https://wiki.freeserver.pro/world/seichi.html)|[整地](https://wiki.freeserver.pro/world/seichi.html)ができるワールド|
 |[地上絵ワールド]()|運営や鯖民の地上絵を描くためのワールド。|
