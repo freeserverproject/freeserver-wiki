@@ -3,4 +3,11 @@ title: ganma_
 ---
 # ganma
 
-This is ganma's page
+## 取扱説明書
+
+### 付属品
+- ガンマ本体 1ヶ  - パーカー 2ヶ  - 出身中学校のジャージ 6ヶ
+
+
+
+
