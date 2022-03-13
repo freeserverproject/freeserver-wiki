@@ -5,7 +5,7 @@ sidebar: true
 ---
 <p class="profile-img" align="center">
 
-![](https://raw.githubusercontent.com/tererun/tererun/fdce21ef14ed8a75b669cd2bb235a21bd84def91/sec_1.svg)
+![Header](https://raw.githubusercontent.com/tererun/tererun/fdce21ef14ed8a75b669cd2bb235a21bd84def91/sec_1.svg)
 </p>
 
 # Hey guys!

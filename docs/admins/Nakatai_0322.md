@@ -7,11 +7,11 @@ sidebar: true
 
 ## はじめに
 
-どうも，皆さんはじめまして。
+どうも、皆さんはじめまして。
 
 「[FREESERVER](https://www.freeserver.pro)」運営のNakataiと申します。
 
-私は，現在Wiki(広報)担当(AdminサーバーではWiki Editorと表記)をさせてもらってます！
+私は、現在Wiki（広報）担当（AdminサーバーではWiki Editorと表記）をさせてもらってます！
 
 ## 自己紹介
 
@@ -19,11 +19,11 @@ sidebar: true
 
 性別:男性
 
-生年月日・星座:yyyy年3月22日 牡羊座
+生年月日・星座:yyyy年3月22日（牡羊座）
 
-血液型:A型(RH+)
+血液型:A型（RH+）
 
-出身地・居住地:日本国 岐阜県のどっか（美濃地方）
+出身地・居住地:日本国  岐阜県のどっか（美濃地方）
 
 [もっと見る](https://vprof.me/@/Nakatai_0322)
 
@@ -37,7 +37,7 @@ sidebar: true
 ## これまでしでかしたこと
 
 - 建築担当になったがほとんど何もやってない
-- 誤って`/kill @e`を実行し，首脳陣の手を焼かせる 
+- 誤って`/kill @e`を実行し、首脳陣の手を焼かせる
 
 ## PC環境
 
@@ -45,15 +45,15 @@ sidebar: true
 
 ## 連絡先
 
-Twitter:https://twitter.com/Nakatai_0322
+Twitter:<https://go.naklatai.ga/twitter>
 
-プロフ:https://go.nakatai.ga/pr
+プロフ:<https://go.nakatai.ga/pr>
 
-ブログ:https://blog.nakatai.ga
+ブログ:<https://nakatai.ga>
 
-公式HP:https://nakatai.ga
+ポートフォリオ:<https://portfolio.nakatai.ga>
 
-GitHub:https://github.com/Nakatai-0322
+GitHub:<https://go.nakatai.ga/github>
 
 Discord:`Nakatai_0322#6872`
 
