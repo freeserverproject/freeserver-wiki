@@ -8,7 +8,7 @@ sidebar: true
 FREESERVERは特殊な釣り竿があります。
 その釣り竿で釣りをすると[魚類](/item/addfish)が釣れるようになります。
 
-[この釣り竿で釣った魚](/item/addfish)は[釣り大会](/event/fishcontest)で使用するため参加するならば絶対に必要である
+[この釣り竿で釣った魚](/item/addfish)は[釣り大会](/event/admin/fishcontest)で使用するため参加するならば絶対に必要である
 
 ## 使い方
 インベントリに餌となる腐ったの肉をいれ通常と同じように釣りを行うと[魚類](/item/addfish)が釣れるようになる。

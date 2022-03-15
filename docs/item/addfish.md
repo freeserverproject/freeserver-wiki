@@ -5,7 +5,7 @@ description: "AddFish について"
 
 # 各種魚
 [釣り大会専用釣り竿](fishrod)を使用して魚釣りを行うといつもとは違う魚が連れます。  
-[釣り大会](/event/fishcontest)中に釣った魚はそのイベントで使用できます。
+[釣り大会](/event/admin/fishcontest)中に釣った魚はそのイベントで使用できます。
 
 ::: warning 注意
 この記事は現在編集中の記事です。
