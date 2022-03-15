@@ -3,11 +3,13 @@ title: イベント一覧
 description: FREESERVERにて開催されるイベント一覧
 ---
 # イベント一覧
+
 FREESERVERでは定期的にイベントが開催されます。
 開催時刻は[Discord](/discord)にてお知らせしています。
 また一部のイベントで優勝すると[フィギュア](/item/figure)がもらえます。
 
 ## 一覧
+
 | イベント | 備考 |
 | ------- | ---- |
 | [夏祭り](/event/admin/summer_festival) |  |

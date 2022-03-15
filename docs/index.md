@@ -10,11 +10,11 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ご不明な点等ありましたらこちらを参照ください!!
 
-記事は，[Wiki Editorなど](about-wiki)により随時拡充中です！
+記事は、[Wiki Editorなど](about-wiki)により随時拡充中です！
 
 ## 目次
 
-太字の記事は，重要記事・強化記事です。一度は読んでみてくださいね。
+太字の記事は、重要記事・強化記事です。一度は読んでみてくださいね。
 
 ### お初さん向け
 
@@ -24,7 +24,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### 生活情報
 
-* [Mobトラップ一覧](world/mobtrap)
+* [Mobトラップ一覧](facility-index/mobtrap)
 
 ### ワールド紹介
 

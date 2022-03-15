@@ -16,11 +16,11 @@ sidebar: true
 
 手に持ってブロックに向かって右クリックでほうきを置きます
 
-![](https://i.imgur.com/CiagV5h.png)
+![箒](https://i.imgur.com/CiagV5h.png)
 
 ほうきに向かって右クリックをすると乗ることができます
 
-![](https://i.imgur.com/13zIdGz.jpg)
+![ライドオン箒](https://i.imgur.com/13zIdGz.jpg)
 
 ## 操作方法
 

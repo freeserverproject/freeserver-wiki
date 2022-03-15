@@ -12,10 +12,13 @@ I'm weak programmer. <br>
 I wish you would know me.<br>
 
 ## My skills
+
 ### Knowledge languages
+
 HTML, JS, CSS, Node.js, Vue
 
 ### Other
+
 Studying about Netlify and VuePress, VitePress.
 
 ## Contact me
