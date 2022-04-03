@@ -3,7 +3,6 @@ title: FindTheFool
 description: "ミニゲーム FindTheFool について（まだ限定公開だからindexには載っけないで！！）"
 ---
 
-
 #FindTheFool
 
 ##軽い物語
