@@ -24,7 +24,7 @@ export default {
 		},
 		scale: {
 			type: Number,
-			default: 1
+			default: 1.3
 		}
 	},
 	computed: {
