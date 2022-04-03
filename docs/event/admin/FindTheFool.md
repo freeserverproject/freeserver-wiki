@@ -21,7 +21,7 @@ description: "ミニゲーム FindTheFool について（まだ限定公開だ�
 アイテムもたくさん実装したぞ！byガンマ
 
 ##ゲームの進み方
-<div style="text-align: center;">
+
 「昼」時間（1日目）
 
 　↓ 
@@ -41,7 +41,6 @@ description: "ミニゲーム FindTheFool について（まだ限定公開だ�
 「昼」時間（2日目）
 
 （以下勝敗決定まで繰り返し）
-</div>
 
 ##時間について
 ###「昼」
