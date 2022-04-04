@@ -191,4 +191,4 @@ F5を押して自分のスキンを確認しても自分のスキンのままで
 
 これ1時間で書きました。褒めて。
 
-Written by ganma.
+<span style="font-size: 10px;">Written by ganma.</span>
