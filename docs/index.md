@@ -61,7 +61,6 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [釣り大会](event/admin/fishcontest)
 * [Paint It!](event/admin/paint-it)
 * [運営ラジオ](event/admin/radio)
-* [バカ人狼](/event/admin/FindTheFool.md)
 
 ### プラグイン
 
