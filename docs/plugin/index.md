@@ -22,3 +22,4 @@ FREESERVERに導入されている一部のプラグインを誰でも使える�
 | ------ | ----| --------- |
 | [Lift](./lift) | エレベーターを設置するためのプラグイン | [Spigot](https://www.spigotmc.org/resources/lift.4704/) |
 |[Jobs](./jobs)|職業の概念を追加するプラグイン|[Spigot](https://www.spigotmc.org/resources/jobs-reborn.4216)|
+|[QuickShop](./quickshop)|ショッププラグイン|[Spigot](https://www.spigotmc.org/resources/quickshop-reremake-1-18-ready-multi-currency.62575/)|
