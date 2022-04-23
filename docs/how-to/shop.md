@@ -37,38 +37,6 @@ EasyShopBlockを使うと、一個のブロックで複数のショップを作�
 
 ![値段変更](https://i.imgur.com/timLR4f.png)
 
-## ShopChestでの作成方法
+## QuickShopでの作成方法
 
-ShopChestを使うと、直感的なショップを作ることができます。
-
-用意するもの:`チェスト`,`売りたいもの`
-
-### Step.1 チェストを設置する
-
-![ShopChest](https://i.imgur.com/92o4XMa.png)
-
-### Step.2 コマンドを打つ
-
-```plaintext
-/shopchest:shop create <売る個数> <買うときの金額> <売却するときの金額>
-```
-**※各自で適切な数を当てはめてください。**
-
-### Step3. 商品を登録する
-
-![](https://i.imgur.com/33KSdXX.png)
-
-チャットに緑色の`Open your inventory, and drop an item to select it.`というメッセージがあるので、インベントリを開き、アイテムをインベントリ内に入れてください。
-
-### Step4. チェストを指定する
-
-チャットに`Click a chest within 15 seconds to create a shop.`とあるので、15秒以内にチェストをクリックしましょう。
-
-### Step5. 完成
-
-お疲れさまでした！
-
-Shopが完成しました！
-
-なお、ショップを建てるのに5FP必要ですが、これはショップの乱立を防ぐための対策です。
-![ショップ例](https://i.imgur.com/d9FDCCa.png)
+[こちら](plugin/quickshop.md)をご覧ください。
