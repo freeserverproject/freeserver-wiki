@@ -39,4 +39,4 @@ EasyShopBlockを使うと、一個のブロックで複数のショップを作�
 
 ## QuickShopでの作成方法
 
-[こちら](plugin/quickshop.md)をご覧ください。
+[こちら](/plugin/quickshop.md)をご覧ください。
