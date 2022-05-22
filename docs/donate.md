@@ -26,7 +26,7 @@ description: 寄付について
 ### Stripeを使用して寄付をする
 
 [Stripe](https://stripe.com/jp)を使用してして寄付できます。
-Kyashだけではなく、`Visa`,`MasterCard`,`AmericanExpress`のクレジットカードを使用してして寄付できます。
+Kyashだけではなく、`Visa`, `MasterCard`, `AmericanExpress`のクレジットカードを使用してして寄付できます。
 [こちら](https://link.freeserver.pro/stripe)のページから寄付できます。よろしくおねがいします！！
 
 >"VISA"は、ビザ・インタ―ナショナル・サ―ビス・アソシエイションの登録商標です。
