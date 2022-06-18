@@ -11,9 +11,7 @@ description: 寄付について
 
 1. Kyashアプリをインストールする
 
-[![AppStoreからダウンロード](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95d99ca2641607a3057_button-store-applestore.svg)](https://app.appsflyer.com/id1084264883?pid=Publicweb&c=footer)
-
-[![Google Playからダウンロード](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95e557e7d6e694579ac_button-store-googleplay.svg)](https://app.appsflyer.com/co.kyash?pid=Publicweb&c=footer)
+[![AppStoreからダウンロード](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95d99ca2641607a3057_button-store-applestore.svg)](https://apps.apple.com/JP/app/id1084264883) [![Google Playからダウンロード](https://global-uploads.webflow.com/5db15c3bca3871afff172c17/5f36b95e557e7d6e694579ac_button-store-googleplay.svg)](https://play.google.com/store/apps/details?id=co.kyash)
 
 2. インストールしたら、起動をお願いします。
 3. 起動できたら、下にある`送金・請求`をタップしてください。
@@ -28,7 +26,7 @@ description: 寄付について
 ### Stripeを使用して寄付をする
 
 [Stripe](https://stripe.com/jp)を使用してして寄付できます。
-Kyashだけではなく、`Visa`,`MasterCard`,`AmericanExpress`のクレジットカードを使用してして寄付できます。
+Kyashだけではなく、`Visa`, `MasterCard`, `AmericanExpress`のクレジットカードを使用してして寄付できます。
 [こちら](https://link.freeserver.pro/stripe)のページから寄付できます。よろしくおねがいします！！
 
 >"VISA"は、ビザ・インタ―ナショナル・サ―ビス・アソシエイションの登録商標です。
