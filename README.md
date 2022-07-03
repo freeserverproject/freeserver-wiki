@@ -11,16 +11,16 @@ Netlifyでビルドされ[wiki.freeserver.pro](https://wiki.freeserver.pro)及�
 ## ローカルで検証
 ### 必要環境
 - Node.js v14.*
-- npm 6.14.*
+- pnpm 7.*
 
 ### 手順
 1. 依存関係をインストール
 ```sh
-npm ci
+pnpm i --frozen-lockfile
 ```
 2. ローカル環境で起動
 ```sh
-npm run docs:dev
+pnpm docs:dev
 ```
 3. ブラウザで[http://localhost:3000/](http://localhost:3000/)にアクセス
 
