@@ -13,6 +13,7 @@ description: "WorldGuard について"
 ## 詳しい使い方
 
 ![Hogo Example](https://i.imgur.com/tV9MBkq.jpg)
+
 この建造物を保護したい場合、赤か青どっちかから左クリック、左クリックしてない方を、右クリックして、`//expand vert`を打って、`/rg claim <保護名>`打てば保護してくれる有能プラグイン。
 
 ## 保護の解説動画

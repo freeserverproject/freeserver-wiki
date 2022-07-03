@@ -20,6 +20,7 @@ sidebar: true
 
 
 メニューが開けたら、上方に地上絵ワールドというボタンがありますので、クリックしてくさい。
+
 <img src="https://i.imgur.com/APdabBF.png" width="500">
 
 気がつけばあなたは地上絵ワールドにいるはずです！

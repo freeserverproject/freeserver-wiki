@@ -57,7 +57,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 [イベント一覧](event/)
 
-* [Trouble in Crafter Town](event/admin/tct)(人狼,TCT)
+* [Trouble in Crafter Town](event/admin/tct)(人狼, TCT)
 * [釣り大会](event/admin/fishcontest)
 * [Paint It!](event/admin/paint-it)
 * [運営ラジオ](event/admin/radio)
