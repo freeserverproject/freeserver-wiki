@@ -89,6 +89,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
 * [メニューについて](menu.md)
+* [Wikiへの寄稿の仕方](how-to/edit-wiki.md)
 
 ## 関連リンク
 
