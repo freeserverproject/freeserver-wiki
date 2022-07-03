@@ -57,6 +57,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 [イベント一覧](event/)
 
+* [Fall Guys Custom](event/admin/FallGuysCustom)
 * [Trouble in Crafter Town](event/admin/tct)(人狼,TCT)
 * [釣り大会](event/admin/fishcontest)
 * [Paint It!](event/admin/paint-it)
