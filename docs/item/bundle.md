@@ -14,7 +14,9 @@ description: "バンドル について"
 ## どうやって作るの？
 
 ↓の画像のようにして作ることができます。
+
 ![CraftRecipe](https://cdn.discordapp.com/attachments/528252546423455764/796230275947692092/unknown.png)
+
 
 ## どうやって使うの？
 
@@ -22,11 +24,15 @@ description: "バンドル について"
 
 ![入れる中身を決める](https://i.imgur.com/Yzj58Y2.png)
 
+![入れるGUI](https://i.imgur.com/Yzj58Y2.png)
+
+作ったバンドルを右クリックすると、このような画面が出てきます。
+
 作ったバンドルを右クリックすると、このような画面が出てきます。
 
 バンドルに入れたいアイテム（ここでは石炭鉱石）をバンドルの中身の画面の中に入れれば準備完了です。
 
-![](https://i.imgur.com/9fkwYIL.png)
+![アイテム入れる](https://i.imgur.com/9fkwYIL.png)
 
 ### 中身を増やす
 
