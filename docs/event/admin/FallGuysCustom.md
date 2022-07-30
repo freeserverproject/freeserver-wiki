@@ -5,6 +5,8 @@ description: "「フォールガイズ」のカスタムです。"
 
 # FREESERVER Fall Guys Custom
 
+:::tip "FREESERVER Fall Guys Custom"は無事終わりました！ ご参加ありがとうございました！！！:::
+
 FREESERVER Projectが主催し、2022年7月9日に開催される"FREESERVER Fall Guys Custom"に関する情報です。
 
 ## 概要
