@@ -10,7 +10,7 @@
 		</template>
 		<template #page-bottom>
 		<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
-		<img alt="CC-by-nc-nd" style="border-width:0" src="/cc_by-nc-nd.svg" /></a><br>
+		<img alt="CC-by-nc-nd" style="border-width:0" src="/assets/cc_by-nc-nd.svg" /></a><br>
 		この記事は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
 		</template>
 	</Layout>
