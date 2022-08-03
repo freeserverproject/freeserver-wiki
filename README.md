@@ -1,27 +1,34 @@
 # FREESERVER Wiki
+
 Welcome to FREESERVER Wiki!
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/56a0c5fe-6a83-4aee-a478-e8e90a1e03ce/deploy-status)](https://app.netlify.com/sites/freeserver-wiki/deploys)
 
 ## 使い方
-masterに対してコミットがあると自動でデプロイされ
 
-Netlifyでビルドされ[wiki.freeserver.pro](https://wiki.freeserver.pro)及び[freeserver-wiki.netlify.app](https://freeserver-wiki.netlify.app)に適用されます。
+masterに対してコミットがあるとNetlifyにて自動でビルド・デプロイされ[wiki.freeserver.pro](https://wiki.freeserver.pro)及び[freeserver-wiki.netlify.app](https://freeserver-wiki.netlify.app)に適用されます。
 
 ## ローカルで検証
+
 ### 必要環境
+
 - Node.js v14.*
 - pnpm 7.*
 
 ### 手順
+
 1. 依存関係をインストール
+
 ```sh
 pnpm i --frozen-lockfile
 ```
+
 2. ローカル環境で起動
+
 ```sh
 pnpm docs:dev
 ```
+
 3. ブラウザで[http://localhost:3000/](http://localhost:3000/)にアクセス
 
 この手順を踏むとローカル環境でWikiをリアルタイムで見ることができます。
@@ -30,9 +37,11 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 ## カスタムHTML要素
 
 ### Minecraft Avatar
-``` html
+
+```html
 <mc-avatar user="uuid | mcid" type="helm" :width="32" />
 ```
+
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |
 | user        | yes   | \-        | MCIDかプレイヤーのUUID |
@@ -41,17 +50,21 @@ Viteなので保存した瞬間記事が更新されてほんとに見たまま�
 | height      | no    | \-        | 立幅 基本的には横幅と比率になるので特別なことがない限り指定する必要なし |
 
 ### Discord Widget
+
 ```html
 <discord-widget url="Discord Widget JSON API URL"/>
 ```
+
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |
 | URL         | yes   | \-        | Discord WidgetにあるJSON APIのURL |
 
 ### Item Sprite
+
 ```html
 <item-sprite name="snowball" :scale="1" />
-``` 
+```
+
 | プロパティ名 | 必須  | デフォルト | 説明 |
 | ------------| ----- | --------- | ---- |
 | name        | yes   | \-        | [Minecraft Wiki - ItemSprite](https://minecraft.fandom.com/wiki/Template:ItemSprite) ここのアイテム名を入力 |
