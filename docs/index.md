@@ -57,6 +57,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 [イベント一覧](event/)
 
+* [FREESERVER夏祭り2022](event/admin/summer_festival_2022)
 * [Fall Guys Custom](event/admin/FallGuysCustom)
 * [Trouble in Crafter Town](event/admin/tct)(人狼, TCT)
 * [釣り大会](event/admin/fishcontest)
