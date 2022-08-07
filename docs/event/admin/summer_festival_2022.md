@@ -19,7 +19,7 @@ FREESERVERにて夏に開催される一大イベントです。
 
 | 名称 | 配信リンク ||||
 | --- | --- |---|---|---|
-| FREESERVER 夏祭り 2020 | [YouTube](https://www.youtube.com/watch?v=zOEyRyvzR2A) ||||
+| FREESERVER 夏祭り 2020 | [一日目](https://www.youtube.com/watch?v=zOEyRyvzR2A) ||||
 | FREESERVER 夏祭り 2021 | [一日目](https://youtu.be/kDoaEYRUQV8) | [二日目](https://youtu.be/b07cwtjp6VU) | [三日目](https://youtu.be/gzsc6dOHweY) |
 
 ## 屋台やカスタムアイテム、イベントなどについて
