@@ -8,7 +8,7 @@ sidebar: true
 
 FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサーバー**についてまとめられています!
 
-ご不明な点等ありましたらこちらを参照ください!!
+ご不明な点等ありましたらこちらを参照ください！！
 
 記事は、[Wiki Editorなど](about-wiki)により随時拡充中です！
 
@@ -94,19 +94,18 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ## 関連リンク
 
-| リンク名                    | リンク                                                      |
+| リンク名 | リンク |
 | --- | --- |
-| オフィシャルサイト               | <https://freeserver.pro>                              |
-| 公式YouTubeチャンネル          | <https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g> |
-| 公式Twitter               | <https://twitter.com/FREESERVERP>                          |
-| WebMapポータル              | <https://maps.freeserver.pro>                            |
-| Japan Minecraft Servers | <https://minecraft.jp/servers/play.freeserver.pro>         |
-| monocraft               | <https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U>   |
-| Minecraftサーバー利用規約                    | <https://freeserver.pro/tos>                             |
-| Discordサーバー利用規約                    | <https://docs.google.com/document/d/1WnymBbHbVBsbLBSIvH1x5OMJXaehRiV14faSF-f-2lQ>                             |
-| Webページ利用規約                    | <https://freeserver.pro/tos>                             |
-| 公式Discordコミュニティ         | <https://link.freeserver.pro/discord>                           |
-| サーバーの詳細情報（停止中） | <https://plan.freeserver.pro> |
+| 公式ホームページ | <https://freeserver.pro> |
+| 公式YouTubeチャンネル | <https://www.youtube.com/channel/UCU5FYJvOVdndHU_CQFXkZ9g> |
+| 公式Twitter | <https://twitter.com/FREESERVERP> |
+| WebMapポータル | <https://maps.freeserver.pro> |
+| Japan Minecraft Servers | <https://minecraft.jp/servers/play.freeserver.pro> |
+| monocraft | <https://www.monocraft.net/servers/cb23696EAKqv51cX1L6U> |
+| Minecraftサーバー利用規約 | <https://freeserver.pro/tos> |
+| Discordサーバー利用規約 | <https://docs.google.com/document/d/1WnymBbHbVBsbLBSIvH1x5OMJXaehRiV14faSF-f-2lQ> |
+| 公式Discordコミュニティ | <https://link.freeserver.pro/discord> |
+| サーバーの詳細情報| <https://plan.freeserver.pro> |
 
 ## Discordウィジェット
 
