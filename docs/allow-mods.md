@@ -7,7 +7,7 @@ sidebar: true
 
 FREESERVERでは当然ながらすべてのModやクライアントを許可しているわけではありません。
 
-サーバー内で使用したいModやクライアントがある場合は，以下の一覧から確認し，見当たらない場合は[FREESERVER公式Discord](/discord)内のチケットを発行し申請を行ってください
+サーバー内で使用したいModやクライアントがある場合は、以下の一覧から確認し、見当たらない場合は[FREESERVER公式Discord](/discord)内のチケットを発行し申請を行ってください
 
 **当サーバーではOptifineの導入を推奨しています。**
  但し、Optifineを始めとするModを導入したことによるいかなる損害も当サーバーにて責任を負うことはできません。
@@ -17,10 +17,10 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | 名前                                                                      | 概要                                 |
 | ----------------------------------------------------------------------- | ---------------------------------- |
 | [Forge](https://files.minecraftforge.net/)                              | 殆どのmodの前提mod                       |
-| [Fabric](https://fabricmc.net/use/)                                     | 前提Mod（対応ModはForgeには劣るが，結構多い。）      |
+| [Fabric](https://fabricmc.net/use/)                                     | 前提Mod（対応ModはForgeには劣るが、結構多い。）      |
 | [Fabric API](https://www.curseforge.com/minecraft/mc-mods/fabric-api)   | Fabricの公式API。多くのModがこのAPIを前提に要求する。 |
 | [Optifine](https://optifine.net/downloads)                              | FPS向上・シェーダー導入補助・HDテクスチャ導入補助など      |
-| [OptiFabric  ](https://www.curseforge.com/minecraft/mc-mods/optifabric) | OptifineをFabricで導入するために使用するMod     |
+| [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) | OptifineをFabricで導入するために使用するMod     |
 | [Bookshelf](https://curseforge.com/minecraft/mc-mods/bookshelf)         | Wawlaの前提Mod                        |
 
 ## 許可済みMod
@@ -28,8 +28,8 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | 名前                                                                                                        | 前提mod        | 概要                                                                                                                              | ミニゲームでの使用可否 |
 | --- | --- | --- | --- |
 | [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)                                         | Forge/Fabric | ミニマップMod。                                                                                                                       | ×           |
-| [AppleSkin ](https://www.curseforge.com/minecraft/mc-mods/appleskin)                                      | Forge/Fabric | 食料の回復量等を確認できるMod。                                                                                                               |             |
-| [BetterPvP ](https://chocolateminecraft.com/betterpvp2.php)                                               | Forge/Fabric | ミニマップや、防具耐久値表示、ポーション効果の表示                                                                                                       | ×           |
+| [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)                                      | Forge/Fabric | 食料の回復量等を確認できるMod。                                                                                                               |             |
+| [BetterPvP](https://chocolateminecraft.com/betterpvp2.php)                                               | Forge/Fabric | ミニマップや、防具耐久値表示、ポーション効果の表示                                                                                                       | ×           |
 | [ToroHealth Damage Indicators](https://www.curseforge.com/minecraft/mc-mods/torohealth-damage-indicators) | Forge/Fabric | プレイヤーを含めたMobのダメージ表示。                                                                                                            |             |
 | [ReplayMod](https://www.replaymod.com/)                                                                   | Fabric       | リプレイを撮影できるMod。                                                                                                                  |             |
 | [Custom Crosshair Mod](https://www.curseforge.com/minecraft/mc-mods/custom-crosshair-mod)                 | Fabric       | 画面の照準のカスタマイズ                                                                                                                    |             |
@@ -56,24 +56,24 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 
 ## PvPクライアントなどの関する扱いに関して
 
-PvPクライアントは，様々なMod（軽量化Modなど）が抱き合わせられて配布されています。
+PvPクライアントは、様々なMod（軽量化Modなど）が抱き合わさられて配布されています。
 
-我々は，その内包されたModを精査して許可を出すことを決定しています。
+我々は、その内包されたModを精査して許可を出すことを決定しています。
 
-以下，現在明示的に許可されているPvPクライアントを列挙します。[^Ownerの発言より1]
+以下、現在明示的に許可されているPvPクライアントを列挙します。[^Ownerの発言より1]
 
 [^Ownerの発言より1]: https://discord.com/channels/393963617604861952/458149500423241738/820957463092133889
 
 | 名称                  | ホームページ                         |
 | ------------------- | ------------------------------ |
 | Lunar Client        | <https://www.lunarclient.com/> |
-| BadLion Client      | https://client.badlion.net/    |
-| Hypirium （**開発終了**） | https://hyperium.cc/           |
+| BadLion Client      | <https://client.badlion.net/>    |
+| Hypirium （**開発終了**） | <https://hyperium.cc/>           |
 
 
 ## その他非公式ランチャー等について
 
-非公式ランチャー（MultiMCなど）等に関しましては，上記の，許可Mod等を使用し，なおかつ，正式なアカウント（ALTアカウント等以外）を使用している場合に限り，我々はその使用を許可します。[^Ownerの発言より2]
+非公式ランチャー（MultiMCなど）等に関しましては、上記の許可Mod等を使用しなおかつ、正式なアカウント（ALTアカウント等以外）を使用している場合に限り我々はその使用を許可します。[^Ownerの発言より2]
 
 [^Ownerの発言より2]: https://discord.com/channels/393963617604861952/458149500423241738/831081972461338654
 
@@ -81,10 +81,10 @@ PvPクライアントは，様々なMod（軽量化Modなど）が抱き合わ�
 
 過去にBAN履歴のあると思われるModをまとめました。
 
-**禁止されているModはこれで全部ではありません！** 
+**禁止されているModはこれで全部ではありません！**
 
 | 名前    | 禁止理由               | 概要              |
 | ----- | ------------------ | --------------- |
 | WURST | それ自体がHack用のModのため。 | Flyや,SpeedHack。 |
 
-↑使用すると，**ほぼ永久BAN**されます。**絶対に使用しないようにしてください。**
+↑使用すると、ほぼ**永久BAN**されます。**絶対、使用しないようにしてください。**

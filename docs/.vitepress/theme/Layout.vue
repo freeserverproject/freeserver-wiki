@@ -9,9 +9,9 @@
 				data-full-width-responsive="true"></ins>
 		</template>
 		<template #page-bottom>
-			<a href="https://creativecommons.org/licenses/by-nc-nd/4.0/deed.ja">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Cc-by-nc-nd_icon.svg" alt="CC BY-NC-ND 4.0">
-			</a>
+		<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+		<img alt="CC-by-nc-nd" style="border-width:0" src="/assets/cc_by-nc-nd.svg" /></a><br>
+		この記事は <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">クリエイティブ・コモンズ 表示 - 非営利 - 改変禁止 4.0 国際 ライセンス</a>の下に提供されています。
 		</template>
 	</Layout>
 </template>
