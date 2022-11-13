@@ -73,6 +73,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * **[BlockLocker](plugin/blocklocker)**(簡易保護PL)
 * **[Jobs](plugin/jobs)**(職業追加PL)
 * **[QuickShop](plugin/quickshop)**(ショップ追加PL)
+* **[Lift](plugin/lift)**(エレベーターPL)
 
 ### 権限・運営関係
 
