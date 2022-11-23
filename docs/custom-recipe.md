@@ -4,5 +4,8 @@ FREESERVER内で使えるカスタムレシピを紹介します。
 
 ## 黒色の染料
 
-![ハニカム+石炭](https://i.imgur.com/RyJxyo1.png)
-![ハニカム+木炭](https://i.imgur.com/khmG0TH.png)
+![ハニカム + 石炭ブロック](https://imgur.com/V5kmTo8)
+
+## 石炭ブロック
+
+![石炭 or 木炭 x9](https://imgur.com/Ze3yO82)
