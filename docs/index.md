@@ -86,6 +86,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 * [投票](vote)
 * [寄付](donate)
+* [カスタムレシピ](custom-recipe)
 * [アイテムの受け渡し方](how-to/senditem)
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
