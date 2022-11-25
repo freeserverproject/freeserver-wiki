@@ -1,6 +1,6 @@
 # FR(FREESERVER Railways)
 
-FREESERVER運営の鉄道路線です。
+FREESERVER公営の鉄道路線群です。
 
 ## 運行路線
 
