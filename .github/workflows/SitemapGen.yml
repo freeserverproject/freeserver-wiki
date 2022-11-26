@@ -35,7 +35,7 @@ jobs:
       - name: install dependencies(pnpm)
         run: |
           pnpm i --frozen-lockfile
-      - name: Generate API doc
+      - name: Generate Generate Sitemap
         run: |
           pnpm generate-sitemap
       - name: Update Sitemap
