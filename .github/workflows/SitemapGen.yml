@@ -1,0 +1,46 @@
+
+name: Generate Sitemap
+
+on:
+  workflow_dispatch:
+  push:
+  pull_request:
+
+jobs:
+  mapgen:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          ref: ${{ github.head_ref }}
+      - name: Use Node.js
+        uses: actions/setup-node@v1
+        with:
+          node-version: "16.x"
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 7
+      - name: Get pnpm store directory
+        id: pnpm-cache
+        run: |
+          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
+      - name: Setup pnpm cache
+        uses: actions/cache@v3
+        with:
+          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
+          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-store-
+      - name: install dependencies(pnpm)
+        run: |
+          pnpm i --frozen-lockfile
+      - name: Generate API doc
+        run: |
+          pnpm generate-sitemap
+      - name: Update Sitemap
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message:
+            "Update Sitemap (branch: ${{ github.head_ref }})"
+          branch: ${{ github.head_ref }}
