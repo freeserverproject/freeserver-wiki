@@ -41,6 +41,6 @@ jobs:
       - name: Update Sitemap
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message:
+          commit_message: |
             "Update Sitemap (branch: ${{ github.head_ref }})"
           branch: ${{ github.head_ref }}
