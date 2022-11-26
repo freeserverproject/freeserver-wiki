@@ -1,3 +1,3 @@
 [build]
-  command = "npm run docs:build"
+  command = "pnpm docs:build && pnpm generate-sitemap"
   publish = "docs/.vitepress/dist"
