@@ -7,7 +7,3 @@ FREESERVER内では[FR](/transports/train/FR)の一部の駅に設置されて�
 ## 設置駅一覧
 
 [FR](/transports/train/FR)の記事から各路線の駅を参照されたい。
-
-## 仕様
-
-<!--後でかくー-->
