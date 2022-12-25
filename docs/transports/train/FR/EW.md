@@ -8,6 +8,8 @@
 
 一部の駅で[盲導鈴](/transports/train/guide-bell)が設置されています。
 
+全駅でICカード"[FRICA](/item/FRICA)"が使用可能です。
+
 ### 路線データ
 
 運営・管理主体: [運営](/admins/)
