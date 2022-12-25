@@ -2,7 +2,7 @@
 
 FREESERVER Railways（フリーサーバー レールウェイズ, 略: FR）とは、FREESERVER公営の鉄道路線群です。
 
-全線全駅でICカード"FRICA"が使用可能です。
+全線全駅でICカード"[FRICA](/item/FRICA)"が使用可能です。
 
 ## 運行路線
 
