@@ -1,6 +1,6 @@
 # 東西線
 
-[FR](/transports/train/FR/)東西線（`East-West Line`, エフアールとうざいせん）とは、FREESERVER [メインワールド](/world/main/)の東西を結ぶ鉄道路線です。
+[FR](../)東西線（`East-West Line`, エフアールとうざいせん）とは、FREESERVER [メインワールド](/world/main/)の東西を結ぶ鉄道路線です。
 
 ## 概要
 
