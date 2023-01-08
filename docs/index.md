@@ -56,7 +56,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [フィギュア](item/figure)
 * [バンドル](item/bundle)
 * [バックパック](item/backpack)
-* [FRICA](item/FRICA)
+* [FRICA](item/frica)
 
 ### イベント関係
 
