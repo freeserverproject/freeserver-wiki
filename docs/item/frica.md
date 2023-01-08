@@ -10,12 +10,12 @@ FRICA（フリカ）とは、FREESERVER内の自販機、一部の鉄道など�
 
 ## 使用可能場所
 
-- [FR](/transports/train/FR/)全線全駅
+- [FR](/transports/train/fr/)全線全駅
 - 運営設置の自販機
 
 ## 購入方法
 
-[FR](/transports/train/FR/)全線全駅で購入できます。
+[FR](/transports/train/fr/)全線全駅で購入できます。
 
 券売機で、「記名済みFricaを購入する」もしくは「Fricaを購入する」を押して記名済みでないものが出てきたら券売機で「記名する」を押して記名します。
 
