@@ -28,7 +28,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 #### 交通情報
 
-* [FR](transports/train/FR/)
+* [FR](transports/train/fr/)
 
 ### ワールド紹介
 

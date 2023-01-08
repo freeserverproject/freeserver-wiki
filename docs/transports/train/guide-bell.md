@@ -4,11 +4,11 @@
 
 現実の盲導鈴に関しては[Wikipedia](https://ja.wikipedia.org)の[記事](https://ja.wikipedia.org/wiki/盲導鈴)を参考にされたい。
 
-FREESERVER内では[FR](/transports/train/FR/)の一部の駅に設置されている。
+FREESERVER内では[FR](/transports/train/fr/)の一部の駅に設置されている。
 
 ## 設置駅一覧
 
-[FRの記事](/transports/train/FR/)から各路線の駅を参照されたい。
+[FRの記事](/transports/train/fr/)から各路線の駅を参照されたい。
 
 <!--
 ## 仕様公開

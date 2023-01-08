@@ -1,6 +1,6 @@
 # 南北線
 
-[FR](/transports/train/FR/)南北線（`Nouth-South Line`, エフアールなんぼくせん）とは、FREESERVER [メインワールド](/world/main/)の南北を結ぶ鉄道路線です。
+[FR](/transports/train/fr/)南北線（`Nouth-South Line`, エフアールなんぼくせん）とは、FREESERVER [メインワールド](/world/main/)の南北を結ぶ鉄道路線です。
 
 ## 概要
 
