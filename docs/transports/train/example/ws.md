@@ -1,12 +1,12 @@
 # 南西線
 
-[ER](/transports/train/example/)南西線（`East-West Line`, イーアールなんせいせん）とは、FREESERVER [メインワールド](/world/main/)の南南西から南西を結ぶ架空の鉄道路線です。
+[ER](/transports/train/example/)南西線（`West-South Line`, イーアールなんせいせん）とは、FREESERVER [メインワールド](/world/main/)の南南西から南西を結ぶ架空の鉄道路線です。
 
 以下、鉄道記事執筆の際の一例として架空路線の説明をします。
 
 ## 概要
 
-全線高架化されており、[FR](/transports/train/fr/) [東西線](/transports/train/example/ew)より駅間が短く配置されています。
+全線高架化されており、[FR](/transports/train/fr/) [東西線](/transports/train/fr/ew)より駅間が短く配置されています。
 
 全駅で[盲導鈴](/transports/train/guide-bell)が設置されています。
 
