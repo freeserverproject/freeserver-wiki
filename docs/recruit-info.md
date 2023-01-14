@@ -19,10 +19,10 @@ description: 運営に応募するための手順が書いてあります
 
 | 役職                      | 仕事内容                         | 条件・必要スキル                                          |
 | --- | ---| --- |
-| 広報担当(Wiki Editor等)   | サーバー広報・Wikiへの寄稿・編集 | [Twitter](https://twitter.com)の利用経験,[Markdown言語](https://w.wiki/3PyA)の知識(任意)|
+| 広報担当(Wiki Editor等)   | サーバー広報, Wikiへの寄稿・編集 | [Twitter](https://twitter.com)の利用経験,[Markdown言語](https://w.wiki/3PyA)の知識(任意)|
 | **建築担当(Builder)**| 公共施設等の建築| 建築経験・スキル(任意)  |
 | アスレチック担当(Builder) | アスレチックの作成               | アスレチックの建築経験(任意)                              |
-| テクスチャ・デザイン担当  | テクスチャ作成| デザインソフトが扱えること,スキン・テクスチャ等の作成経験 |
+| テクスチャ・デザイン担当  | テクスチャ作成| デザインソフトが扱えること, スキン・テクスチャ等の作成経験 |
 | 翻訳担当| サーバーの多言語対応 | 語学知識（任意）|
 | プログラム担当(Developer) | Spigotプラグインの制作| Minecraft Spigotプラグインの作成経験 |
 
@@ -34,21 +34,21 @@ description: 運営に応募するための手順が書いてあります
 
 ### 方法I
 
-#### [MineIdea](https://mineidea.net/projects/73)からの応募
+#### [MineIdea](https://mineidea.net/projects/6553459080)からの応募
 
-1. [FREESERVERのページ](https://mineidea.net/projects/73)にアクセス！
+1. [FREESERVERのページ](https://mineidea.net/projects/6553459080)にアクセス！
 2. もう1回、必須要件を読み直す。
 3. 「応募方法」の下のGoogleフォームのリンクにアクセス。
 4. 必要事項を記入後、送信！
-5. 当サーバー幹部運営（Owner,SubOwner等）から連絡が行くと思われますので、指示に従って面接を受験。
+5. 当サーバー幹部運営（Owner, SubOwner等）から連絡が行くと思われますので、指示に従って面接を受験。
 
 ### 方法II
 
 #### [公式HP](https://freeserver.pro/)からの応募
 
-1. 一番下の、[`運営募集`](https://freeserver.pro/#/join-us)ページを開く。
+1. 一番下の、[`運営募集`](https://freeserver.pro/join-us)ページを開く。
 2. 画面の指示に従ってGoogleフォームのリンクにアクセス。
 3. 必要事項を記入後、送信！
-4. 当サーバー幹部運営（Owner,SubOwner等）から連絡が行くと思われますので、指示に従って面接を受験。（場合によりますが、面接は行われない可能性があります。）
+4. 当サーバー幹部運営（Owner, SubOwner等）から連絡が行くと思われますので、指示に従って面接を受験。（場合によりますが、面接は行われない可能性があります。）
 
 ※何かわからないことがあったら公式Discordからサポートチケットを作成して運営に相談してみてください。私達は新しい仲間を待っています！
