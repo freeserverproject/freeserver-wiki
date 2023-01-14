@@ -9,7 +9,7 @@
 全線高架化されており、[FR](/transports/train/fr/) [東西線](/transports/train/fr/ew)より駅間が長く配置されています。
 
 <!--
-駅間の説明基準はお任せしますが、周知されているものでお願いします。
+駅間の説明基準はお任せしますが、それなりに周知されているものでお願いします。
 -->
 
 初期スポーン地点を中心に環状に様々な場所を結びます。
@@ -40,7 +40,7 @@
 |山下|Yamashita|`CL13`||Yes|
 |樺森|Kabamori|`CL14`||Yes|
 |各宅|Kagataku|`CL15`||Yes|
-|滑茸|Natsumori|`CL16`||Yes|
-|溶岩原|YouganGen|`CL17`||Yes|
-|中心町西|ChūshinTown-West|`CL18`|FR東西線 中心町西駅|Yes|
+|白滝|Shirataki|`CL16`||Yes|
+|中心町西|ChūshinTown-West|`CL17`|FR東西線 中心町西駅|Yes|
+|鯖民公園南|SabaminPark-South|`CL18`||Yes|
 |樫森|Kashimori|`CL19`||Yes|
