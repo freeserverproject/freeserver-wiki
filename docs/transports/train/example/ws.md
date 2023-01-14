@@ -31,4 +31,4 @@
 |六出山|RikushutuMt.|`WS10`|雪山|Yes|
 |六出山南|RikushutuMt.-South|`WS11`|雪山の登山口|Yes|
 |茸森|Takemori|`WS12`||Yes|
-|御嵩村|Mitake-Vil.|`WS13`|Yes|
+|御嵩村|Mitake-Vil.|`WS13`||Yes|
