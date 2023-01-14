@@ -1,6 +1,6 @@
 # 南西線
 
-[ER](/transports/train/example/)南西線（`West-South Line`, イーアールなんせいせん）とは、FREESERVER [メインワールド](/world/main/)の南南西から南西を結ぶ架空の鉄道路線です。
+[ER](/transports/train/example/)南西線（`West-South Line`, イーアールなんせいせん）とは、FREESERVER [メインワールド](/world/main/)の南南西から南西を結ぶ**架空の**鉄道路線です。
 
 以下、鉄道記事執筆の際の一例として架空路線の説明をします。
 
