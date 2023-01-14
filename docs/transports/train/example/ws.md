@@ -16,7 +16,7 @@
 
 運営・管理主体: Example Railways（準公営）
 
-駅数: 3駅
+駅数: 5駅
 
 高架区間: 全線
 
@@ -31,3 +31,4 @@
 |六出山|RikushutuMt.|`WS10`|雪山|Yes|
 |六出山南|RikushutuMt.-South|`WS11`|雪山の登山口|Yes|
 |茸森|Takemori|`WS12`||Yes|
+|御嵩村|Mitake-Vil.|`WS13`|Yes|
