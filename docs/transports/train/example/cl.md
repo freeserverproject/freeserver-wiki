@@ -6,7 +6,7 @@
 
 ## 概要
 
-全線高架化されており、[FR](/transports/train/fr/) [東西線](/transports/train/example/ew)より駅間が長く配置されています。
+全線高架化されており、[FR](/transports/train/fr/) [東西線](/transports/train/fr/ew)より駅間が長く配置されています。
 
 <!--
 駅間の説明基準はお任せしますが、周知されているものでお願いします。
