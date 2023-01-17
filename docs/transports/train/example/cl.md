@@ -1,6 +1,6 @@
 # 中心環状線
 
-[ER](/transports/train/example/)中心環状線（`central loop line`, イーアールちゅうしんかんじょうせん）とは、FREESERVER [メインワールド](/world/main/)のメインワールドを円状に結ぶ**架空の**鉄道路線です。
+[ER](/transports/train/example/)中心環状線（`central loop line`, イーアールちゅうしんかんじょうせん）とは、FREESERVER [メインワールド](/world/main/)を円状に結ぶ**架空の**鉄道路線です。
 
 以下、鉄道記事執筆の際の一例として架空路線の説明をします。
 
