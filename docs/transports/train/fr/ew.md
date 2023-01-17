@@ -29,5 +29,5 @@
 |灰猫村南|HainekoVil.-South|`EW47`||Yes|
 |周磋|Shūsa|`EW48`||Yes|
 |樫木町|KashigiTown|`EW49`||No|
-|中心町|ChūshinTown|`EW50`|メインワールド スポーン地点, FR[南北線](/transports/train/fr/n)のりば（`N10`）|No|
+|中心町|ChūshinTown|`EW50`|メインワールド スポーン地点, FR[南北線](./n)のりば（`N10`）|No|
 |中心町西|ChūshinTown-East|`EW51`||No|
