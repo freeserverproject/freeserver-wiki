@@ -41,6 +41,6 @@
 |樺森|Kabamori|`CL14`|||Yes|
 |各宅|Kagataku|`CL15`|||Yes|
 |白滝|Shirataki|`CL16`|||Yes|
-|中心町西|ChūshinTown-West|`CL17`|CTW|FR東西線 中心町西駅|Yes|
-|鯖民公園南|SabaminPark-South|`CL18`|SPS|しゅうばりうむ鯖立公園|Yes|
+|中心町西|ChūshinTown-West|`CL17`|`CTW`|FR東西線 中心町西駅|Yes|
+|鯖民公園南|SabaminPark-South|`CL18`|`SPS`|しゅうばりうむ鯖立公園|Yes|
 |樫森|Kashimori|`CL19`|||Yes|
