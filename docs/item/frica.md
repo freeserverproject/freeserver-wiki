@@ -4,7 +4,7 @@ FRICA（フリカ）とは、FREESERVER内の自販機、一部の鉄道など�
 
 ## 外観
 
-![FRICA](https://cdn.jsdelivr.net/gh/freeserverproject/texture/pack/assets/minecraft/textures/item/frica2.png)
+![FRICA](https://i.imgur.com/8EjaHDn.png)
 
 現実の交通系ICカードにありそうな見た目をしています。
 
