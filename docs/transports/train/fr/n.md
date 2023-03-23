@@ -28,7 +28,7 @@
 
 |駅名|駅名ローマ字表記|駅コード|最寄りスポット|
 |---|---|---|---|
-|牟志那駅|Mujina|`N09`|白玉屋|
-|中心町駅|ChūshinTown|`N10`|メインワールド スポーン地点, FR[東西線](./ew)のりば（`EW50`）|
-|中心町南駅|ChūshinTown-South|`N11`||
-|岩見駅|Iwami|`N12`|岩見町|
+|牟志那駅|Mujina Station|`N09`|白玉屋|
+|中心町駅|Central Station|`N10`|メインワールド スポーン地点, FR[東西線](./ew)のりば（`EW50`）|
+|中心町南駅|South-Central Station|`N11`||
+|岩見駅|Iwami Station|`N12`|岩見町|
