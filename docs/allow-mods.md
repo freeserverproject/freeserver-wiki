@@ -53,7 +53,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 |[The 5Zig Mod](https://github.com/5zig-reborn/deployments/tree/1.16)|Fabric|現在1.16.*はβ版。||
 |[The One Prode](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|Forge|Wailaの没入型バージョン||
 |[CocoaInput](https://www.curseforge.com/minecraft/mc-mods/cocoainput)|Forge/Fabric|日本語入力||
-|WorldEditCUI([Forge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui), [Fabric](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)|Forge/Fabric|WorldEdit使用時の選択範囲の可視化||
+|WorldEditCUI([Forge](https://www.curseforge.com/minecraft/mc-mods/worldeditcui), [Fabric](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric))|Forge/Fabric|WorldEdit使用時の選択範囲の可視化||
 
 ## PvPクライアントなどの関する扱いに関して
 
