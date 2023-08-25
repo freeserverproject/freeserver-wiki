@@ -3,7 +3,7 @@ title: BlockLocker
 description: "BlockLocker について　"
 ---
 
-# blocklocker
+# Blocklocker
 
 ## 概要
 
@@ -14,5 +14,19 @@ description: "BlockLocker について　"
 ## 共有チェスト・ドア・トラップドアの作り方
 
 一度設置した看板を右クリックしてから
-<br>`/bl <追記する行> <MCID>`
-<br>上記のコマンドを実行すると追記できます。
+
+`/bl <追記する行> <MCID>`
+
+のコマンドを実行すると追記できます。
+
+### 豆知識 - WorldGuardによる代替方法
+
+先に該当箇所に保護をかけておき、
+
+`/rg flag <保護名> chest-access -g NON_MEMBERS deny`
+
+のコマンドを実行することによって、BlockLockerによる看板保護と同じようなことができます。
+
+この方法で保護した場合、看板を設置するためのスペースが要らず、複数個のチェストを保護することができるため有用です。
+
+BlockLockerは、どちらかというと明示的に保護をかけたいときや、簡単なコマンドで保護をかけたいときに使うと良いでしょう。
