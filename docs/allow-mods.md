@@ -25,7 +25,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 
 ## 許可済みMod
 
-| 名前                                                                                                        | 前提mod        | 概要                                                                                                                              | ミニゲームでの使用可否 |
+| 名前                                                                                                        | 前提mod        | 概要                                                                                                                              | ミニゲームサーバーでの使用|
 | --- | --- | --- | --- |
 | [Voxelmap](https://www.curseforge.com/minecraft/mc-mods/voxelmap)                                         | Forge/Fabric | ミニマップMod。                                                                                                                       | ×           |
 | [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)                                      | Forge/Fabric | 食料の回復量等を確認できるMod。                                                                                                               |             |
@@ -53,6 +53,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 |[The 5Zig Mod](https://github.com/5zig-reborn/deployments/tree/1.16)|Fabric|現在1.16.*はβ版。||
 |[The One Prode](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)|Forge|Wailaの没入型バージョン||
 |[CocoaInput](https://www.curseforge.com/minecraft/mc-mods/cocoainput)|Forge/Fabric|日本語入力||
+|[WorldEditCUI](https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric)|Fabric|WorldEdit使用時の選択範囲の可視化||
 
 ## PvPクライアントなどの関する扱いに関して
 
