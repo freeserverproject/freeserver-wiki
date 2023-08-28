@@ -9,7 +9,7 @@ sidebar: true
 
 どうも、皆さんはじめまして。
 
-「[FREESERVER](https://www.freeserver.pro)」運営のNakataiと申します。
+「[FREESERVER](https://freeserver.pro/)」運営のNakataiと申します。
 
 私は、現在Wiki（広報）担当（AdminサーバーではWiki Editorと表記）をさせてもらってます！
 
@@ -17,13 +17,13 @@ sidebar: true
 
 名称: Nakatai
 
-生年月日・星座: yyyy年3月22日（牡羊座）
+生年月日: yyyy年3月22日
 
 血液型: A型（RH+）
 
-出身地・居住地: 日本国  岐阜県のどっか（美濃地方）
+出身地・居住地: 日本国岐阜県美濃地方のどっか
 
-[もっと見る](https://vprof.me/@/Nakatai_0322)
+[もっと見る](https://go.nakatai.xyz/pr)
 
 ## 経歴
 
@@ -39,20 +39,18 @@ sidebar: true
 
 ## PC環境
 
-[こちら](https://www.geartics.com/Nakatai_0322)を参照
+[こちら](https://go.nakatai.xyz/geartics)を参照
 
 ## 連絡先
 
-Twitter:<https://go.naklatai.ga/twitter>
+Twitter: <https://go.naklatai.xyz/twitter>
 
-プロフ:<https://go.nakatai.ga/pr>
+プロフ: <https://go.nakatai.xyz/pr>
 
-ブログ:<https://nakatai.ga>
+ブログ: <https://nakatai.xyz>
 
-ポートフォリオ:<https://portfolio.nakatai.ga>
+GitHub: <https://go.nakatai.xyz/github>
 
-GitHub:<https://go.nakatai.ga/github>
+Discord: `Nakatai_0322`
 
-Discord:`Nakatai_0322#6872`
-
-MCID:`Nakatai_0322`
+MCID: `Nakatai_0322`
