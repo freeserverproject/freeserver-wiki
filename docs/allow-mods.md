@@ -22,6 +22,7 @@ FREESERVERでは当然ながらすべてのModやクライアントを許可し�
 | [Optifine](https://optifine.net/downloads)                              | FPS向上・シェーダー導入補助・HDテクスチャ導入補助など      |
 | [OptiFabric](https://www.curseforge.com/minecraft/mc-mods/optifabric) | OptifineをFabricで導入するために使用するMod     |
 | [Bookshelf](https://curseforge.com/minecraft/mc-mods/bookshelf)         | Wawlaの前提Mod                        |
+|[Mod Menu](https://modrinth.com/mod/modmenu)|Fabric環境下でのModの一覧、設定画面の表示|
 
 ## 許可済みMod
 
@@ -63,7 +64,7 @@ PvPクライアントは、様々なMod（軽量化Modなど）が組み合わ�
 
 以下、現在明示的に許可されているPvPクライアントを列挙します。[^Ownerの発言より1]
 
-[^Ownerの発言より1]: https://discord.com/channels/393963617604861952/458149500423241738/820957463092133889
+[^Ownerの発言より1]: <https://discord.com/channels/393963617604861952/458149500423241738/820957463092133889>
 
 | 名称                  | ホームページ                         |
 | ------------------- | ------------------------------ |
@@ -76,7 +77,7 @@ PvPクライアントは、様々なMod（軽量化Modなど）が組み合わ�
 
 非公式ランチャー（MultiMCなど）等に関しましては、上記の許可Mod等を使用しなおかつ、正式なアカウント（ALTアカウント等以外）を使用している場合に限り我々はその使用を許可します。[^Ownerの発言より2]
 
-[^Ownerの発言より2]: https://discord.com/channels/393963617604861952/458149500423241738/831081972461338654
+[^Ownerの発言より2]: <https://discord.com/channels/393963617604861952/458149500423241738/831081972461338654>
 
 ## 禁止Mod
 
