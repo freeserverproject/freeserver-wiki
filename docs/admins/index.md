@@ -4,15 +4,15 @@ description: FREESERVERに運営として鯖に貢献しているプレイヤー
 sidebar: true
 ---
 
-
 # 運営リスト
+
 トラブル等ございましたら、以下の運営に相談してみてください。
 
 (運営現在数:13人)
 
 ## 運営一覧
 
-| 権限 || ユーザー || 運営加入日 | 備考 |
+| 権限 |役職| MCID || 運営加入日 | 備考 |
 | --- | --- | --- | --- | --- |
 | Owner                        || <mc-avatar user="a1f8207cdbaa426d92a438c6d0f3c570" /> | [alpha9n](alphakun.html)    　    　　| 2017/12/23 | サーバー代表者 |
 | SubOwner | Plugin Dev         | <mc-avatar user="81e123bc72964a59a7ee3aabdedf2d91" /> | [tererun](tererun.html)     　    　　| 2017/12/27 | カエル |
@@ -28,6 +28,8 @@ sidebar: true
 |^^        |^^                  | <mc-avatar user="ea340bb4e5944837859815fe77c6cf30" /> | [Nikuzuki](Nikuzuki)                 | 2020/12/08 | |
 |^^        |Texture Developer                  | <mc-avatar user="06e9b34d6fb34d34ba05f2b258f75b50" /> | [jinseimendoi](jinseimendoi)(Ueki)| 2021/11/03 | |
 | Staff    | 該当なし                                                                                                       |||||
+
+※「運営加入日」について、不明な（調査しきれなかった）運営は暫定的に運営用Discordサーバーへの参加日を記載しています。
 
 ## 絶賛運営募集中！
 [運営募集について](/recruit-info)
