@@ -15,7 +15,7 @@ description: "バンドル について"
 
 ↓の画像のようにして作ることができます。
 
-![CraftRecipe](https://cdn.discordapp.com/attachments/528252546423455764/796230275947692092/unknown.png)
+![CraftRecipe](https://i.imgur.com/pmu68Cl.png)
 
 
 ## どうやって使うの？
