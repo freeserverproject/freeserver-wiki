@@ -26,6 +26,10 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 * [Mobトラップ一覧](facility-index/mobtrap)
 
+#### 交通情報
+
+* [FR](transports/train/fr/)
+
 ### ワールド紹介
 
 * [メインワールド](world/main/)
@@ -52,6 +56,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 * [フィギュア](item/figure)
 * [バンドル](item/bundle)
 * [バックパック](item/backpack)
+* [FRICA](item/frica)
 
 ### イベント関係
 
