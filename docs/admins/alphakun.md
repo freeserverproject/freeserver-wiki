@@ -15,6 +15,6 @@ sidebar: true
 - 運営の管理
 
 ## 連絡先とか
-- X(旧: Twitter) [alpha9n](https://x.com/alpha9n)
+- X(旧: Twitter) [alpha8n](https://x.com/alpha8n)
 - Discord `alpha9n`
 - Minecraft `alpha9n`
