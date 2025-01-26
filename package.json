@@ -4,11 +4,11 @@
   "description": "wiki for freeserver",
   "main": "index.js",
   "dependencies": {
-    "markdown-it-multimd-table": "^4.1.3",
+    "markdown-it-multimd-table": "^4.2.3",
     "markdown-it-scrolltable": "^0.1.6"
   },
   "devDependencies": {
-    "vitepress": "^0.22.3"
+    "vitepress": "^0.22.4"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
@@ -16,5 +16,6 @@
     "docs:serve": "sudo vitepress serve docs --port 80 --host",
     "generate-sitemap": "node ./scripts/generate.js"
   },
-  "author": "tsutoringo (https://github.com/tsutoringo)"
+  "author": "tsutoringo (https://github.com/tsutoringo)",
+  "packageManager": "pnpm@8.6.12+sha512.1336b80b948efd7979218a33ba96d9e4d380e6578144f6319979977deec6e3fe2e0a444b864b3ce2b077dda8adc4d654fee32b9c31868f0acb92da0abcf8ea1c"
 }
