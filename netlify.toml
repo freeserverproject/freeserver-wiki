@@ -1,3 +1,0 @@
-[build]
-  command = "pnpm generate-sitemap && pnpm docs:build"
-  publish = "docs/.vitepress/dist"
