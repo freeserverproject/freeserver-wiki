@@ -1,3 +1,8 @@
+---
+title: "灰猫鉄道"
+description: "gray27により運用されている鉄道網について"
+---
+
 # 灰猫鉄道
 
 灰猫鉄道は、<mc-avatar user="ae72acdbaa794d3dbd94d4674e0e4f9b" />gray27 により運用されている鉄道網です。
