@@ -2,17 +2,15 @@
 
 Welcome to FREESERVER Wiki!
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/56a0c5fe-6a83-4aee-a478-e8e90a1e03ce/deploy-status)](https://app.netlify.com/sites/freeserver-wiki/deploys)
-
 ## 使い方
 
-masterに対してコミットがあるとNetlifyにて自動でビルド・デプロイされ[wiki.freeserver.pro](https://wiki.freeserver.pro)及び[freeserver-wiki.netlify.app](https://freeserver-wiki.netlify.app)に適用されます。
+masterに対してコミットがあると[Cloudflare Pages](https://www.cloudflare.com/ja-jp/developer-platform/products/pages/)にて自動でビルド・デプロイされ<https://wiki.freeserver.pro>及び<https://freeserver-wiki.pages.dev/>に適用されます。
 
 ## ローカルで検証
 
 ### 必要環境
 
-- Node.js v14.*
+- Node.js v18.* 以降
 - pnpm 7.*
 
 ### 手順
