@@ -23,7 +23,7 @@ sidebar: true
 
 ### mobトラップ
 運営の許可の下で開設されているトラップが存在します。  
-別記事（[Mobトラップ一覧](https://wiki.freeserver.pro/facility-index/mobtrap.html#メインワールド)）を参照してください
+別記事（[Mobトラップ一覧](/facility-index/mobtrap.html#メインワールド)）を参照してください
 
 ### 釣りスポット
 メインスポーン横の運営ビルから釣りスポットにワープすることができます
