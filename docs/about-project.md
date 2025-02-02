@@ -5,8 +5,9 @@ description: "FREESERVER Project について"
 
 # 「FREESERVER Project」について
 
-| 名称 | FREESERVER Project |
+|  |  |
 | - | - |
+| 名称 | FREESERVER Project |
 | 代表者 | [Alpha9n](admins/alphakun) |
 | 運営リスト | [別ページ](admins/) |
 | 物理所在地（本拠地） | なし(Web上のプロジェクトのため) |
