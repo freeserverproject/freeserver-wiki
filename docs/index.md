@@ -29,6 +29,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 #### 交通情報
 
 * [FR](transports/train/fr/)
+* [灰猫鉄道](transports/train/gray27/)
 
 ### ワールド紹介
 
