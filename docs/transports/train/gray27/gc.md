@@ -16,7 +16,7 @@ description: "灰猫鉄道本線および毛玉支線について"
 高架区間: なし  
 複線区間: 全線（全線複々線）  
 地下鉄区間: 全線  
-![地下鉄構造](https://imgur.com/br9rSNY)
+![地下鉄構造](https://i.imgur.com/br9rSNY.png)
 
 ## 駅
 
