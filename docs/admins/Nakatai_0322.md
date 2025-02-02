@@ -23,7 +23,7 @@ sidebar: true
 
 出身地・居住地: 日本国岐阜県美濃地方のどっか
 
-[もっと見る](https://go.nakatai.xyz/pr)
+[もっと見る](https://nakatai.xyz/)
 
 ## 経歴
 
@@ -36,6 +36,7 @@ sidebar: true
 
 - 建築担当になったがほとんど何もやってない
 - 誤って`/kill @e`を実行し、首脳陣の手を焼かせる
+- このページの「もっと見る」リンク先がサ終してアダルトサイトになっていた
 
 ## PC環境
 
@@ -43,9 +44,9 @@ sidebar: true
 
 ## 連絡先
 
-Twitter: <https://go.naklatai.xyz/twitter>
+Twitter: <https://go.nakatai.xyz/twitter>
 
-プロフ: <https://go.nakatai.xyz/pr>
+プロフ: ~~<https://nakatai.xyz>~~
 
 ブログ: <https://nakatai.xyz>
 
