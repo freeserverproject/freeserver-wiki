@@ -21,8 +21,8 @@ sidebar: true
 | [FS拘置所](https://wiki.freeserver.pro/jail.html)            | FREESERVER唯一無二の拘置所。 | [[BlueMapで見る\]](http://bluemap.freeserver.pro/#world:-269:65:51:0:0.44:1.82:0:0:free)\|[[pl3xMapで見る]](https://pl3x.freeserver.pro/?world=world&zoom=5&x=-255&z=37) |
 | [投票コイン等交換所](https://freeserver-wiki.netlify.app/vote.html#交換場所) | 投票コイン等の交換所         |                                                              |
 
-### mobトラップ
-運営の許可の下で開設されているトラップが存在します。  
+### Mobトラップ
+原則ルール上禁止ですが、運営の許可の下で開設されているMobトラップが存在します。  
 別記事（[Mobトラップ一覧](/facility-index/mobtrap.html#メインワールド)）を参照してください
 
 ### 釣りスポット
