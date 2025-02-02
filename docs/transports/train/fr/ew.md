@@ -26,7 +26,7 @@
 
 |駅名|駅名英語表記|駅コード|最寄りスポット|[盲導鈴](/transports/train/guide-bell)設置|
 |---|---|---|---|---|
-|灰猫村南|HainekoVil.-South Station|`EW47`||Yes|
+|灰猫村南|HainekoVil.-South Station|`EW47`| 灰猫鉄道`GC-01`灰猫村南駅 |Yes|
 |周磋|Shusa Station|`EW48`||Yes|
 |樫木町|Kashigi-Town Station|`EW49`||No|
 |中心町|Central Station|`EW50`|メインワールド スポーン地点, FR[南北線](./n)のりば（`N10`）|No|
