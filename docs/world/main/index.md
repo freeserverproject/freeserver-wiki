@@ -13,13 +13,14 @@ sidebar: true
 
 ## 何があるの？
 
-様々な施設がありますが、有名なものを3つ、ピックアップしてみました、
+様々な施設がありますが、主要なものをピックアップしてみました、
 
 | 名称                                                         | 施設紹介                     | 場所                                                         |
 | ------------------------------------------------------------ | ---------------------------- | ------------------------------------------------------------ |
-| メインスポーン                                               | メインのスポーン。           | [[BlueMapで見る\]](http://bluemap.freeserver.pro/#world:-225:84:35:0:-2.34:1.17:0:0:free)\|[[pl3xMapで見る\]](https://pl3x.freeserver.pro/?world=world&zoom=5&x=-242&z=52) |
-| [FS拘置所](https://wiki.freeserver.pro/jail.html)            | FREESERVER唯一無二の拘置所。 | [[BlueMapで見る\]](http://bluemap.freeserver.pro/#world:-269:65:51:0:0.44:1.82:0:0:free)\|[[pl3xMapで見る]](https://pl3x.freeserver.pro/?world=world&zoom=5&x=-255&z=37) |
-| [投票コイン等交換所](https://freeserver-wiki.netlify.app/vote.html#交換場所) | 投票コイン等の交換所         |                                                              |
+| [メインスポーン](/world/main/overworld/spawn/) | メインのスポーン | [[BlueMapで見る\]](https://bluemap.freeserver.pro/#world:-225:84:35:0:-2.34:1.17:0:0:free) |
+| 新スポーン | 南東方面に開拓された第2のスポーン地 | [[BlueMapで見る\]](https://bluemap.freeserver.pro/#world:1546:8:2339:445:0:0:0:1:flat)
+| [FS拘置所](/jail.html) | FREESERVER唯一無二の拘置所 | [[BlueMapで見る\]](https://bluemap.freeserver.pro/#world:-269:65:51:0:0.44:1.82:0:0:free) |
+| [投票コイン等交換所](/vote.html#交換場所) | 投票コイン等の交換所         |                                                              |
 
 ### Mobトラップ
 プレイヤーの設営は利用規約上原則禁止ですが、運営の許可の下で開設されているMobトラップが存在します。  
@@ -37,3 +38,11 @@ sidebar: true
 ### warpポイント
 warpコマンドで移動できる施設があります。
 - 白玉屋
+- 新スポーン（`/warp MainWorldSubSpawnSE`)
+
+### 住民による開拓地
+- [椛谷](/world/main/overworld/momizidani/)
+- 灰猫村 ([FR東西線](/transports/train/fr/ew)灰猫村南→[灰猫鉄道本線](/transports/train/gray27/gc))
+- 周磋 ([FR東西線](/transports/train/fr/ew)周磋)
+- 氷ボートレース場 -260,2130
+- 東海村 -1320,295
