@@ -11,10 +11,10 @@ sidebar: true
 ### 各種生産施設情報
 - [農産物](farm)
 - [畜産物](ranch)
-- [木材](wood)
 
 ### 各種施設
 - [mobトラップ](mobtrap)
+- [植林場](wood)
 
 ### 各種観光地
 - [観光地案内](tourism)
