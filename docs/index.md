@@ -24,7 +24,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### 生活情報
 
-* [Mobトラップ一覧](facility-index/mobtrap)
+* [アイテムの入手可能場所](facility-index/)
 
 #### 交通情報
 
