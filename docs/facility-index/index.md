@@ -15,6 +15,7 @@ sidebar: true
 ### 各種施設
 - [mobトラップ](mobtrap)
 - [植林場](wood)
+- [売店](shop)
 
 ### 各種観光地
 - [観光地案内](tourism)
