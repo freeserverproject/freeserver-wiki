@@ -17,17 +17,21 @@ sidebar: true
 
 ## 樹種別公共植林場一覧
 ### オーク（樫）
-
+- 新スポーン北西角
+- 新スポーン南方 [1560,2610](https://bluemap.freeserver.pro/#world:1555:64:2623:59:2.19:0.53:0:0:perspective)
 ### 白樺
-
+- 新スポーン北西角
+- 新スポーン南方 [1560,2610](https://bluemap.freeserver.pro/#world:1555:64:2623:59:2.19:0.53:0:0:perspective)
 ### 松
-
+- 新スポーン東方 [2150,2045](https://bluemap.freeserver.pro/#world:2143:89:2041:59:-1.37:0.49:0:0:perspective)
 ### ダークオーク
 
 ### アカシア
+- 毛玉駅 [2788,66](https://bluemap.freeserver.pro/#world:2794:67:67:39:2.8:0.79:0:0:perspective)
+### ジャングル
 
 ### 桜
-
+- 新スポーン南方 [1530,2640](https://bluemap.freeserver.pro/#world:1538:72:2639:59:2.19:0.53:0:0:perspective)
 ### （ネザー）真紅
 
 ### （ネザー）歪んだ
