@@ -44,5 +44,6 @@ warpコマンドで移動できる施設があります。
 - [椛谷](/world/main/overworld/momizidani/)
 - 灰猫村 ([FR東西線](/transports/train/fr/ew)灰猫村南→[灰猫鉄道本線](/transports/train/gray27/gc))
 - 周磋 ([FR東西線](/transports/train/fr/ew)周磋)
+- 永田本町 ([灰猫鉄道永笛線](/transports/train/gray27/gl))
 - 氷ボートレース場 -260,2130
 - 東海村 -1320,295
