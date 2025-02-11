@@ -24,12 +24,13 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 ### 生活情報
 
-* [Mobトラップ一覧](facility-index/mobtrap)
+* [アイテムの入手可能場所](facility-index/)
 
 #### 交通情報
 
-* [FR](transports/train/fr/)
-* [灰猫鉄道](transports/train/gray27/)
+* [移動手段（全般）](transports/about-transports)
+  * 公営鉄道[FR](transports/train/fr/)
+  * [灰猫鉄道](transports/train/gray27/)
 
 ### ワールド紹介
 
