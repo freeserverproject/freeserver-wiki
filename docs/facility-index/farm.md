@@ -42,6 +42,7 @@ sidebar: true
 | 施設名 | 管理者 | 場所 | マップ | 備考 |
 | --- | --- | --- |--- | --- |
 | 公共農場 | gray27 | FR東西線中心町駅付近 | [-338, -4](https://bluemap.freeserver.pro/#world:-339:3:9:59:2.03:0.74:0:0:perspective) | |
+| 公共サトウキビ畑 | gray27 | 新スポーン南 | [1520,2550](https://bluemap.freeserver.pro/#world:1524:64:2531:59:0.27:0.32:0:0:perspective) | |
 
 ### カボチャ
 <item-sprite name="pumpkin" :scale="1" />
