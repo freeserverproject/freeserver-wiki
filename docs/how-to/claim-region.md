@@ -3,19 +3,46 @@ title: 土地を保護する
 description: "FREESERVER内にて土地を保護する方法"
 ---
 
-# WorldGuard
+# 保護の方法
 
-## 概要
+このページでは、FREESERVER内における保護の方法に関して解説をします。
 
-金の斧を持って（作業台でクラフトして）始点を左クリック、終点を右クリックし、`//expand vert`のあとに`/rg claim`とコマンドを打てば自分の土地として保護できるプラグイン。
-ちなみに、当サーバー限定で、[NC権限](https://wiki.freeserver.pro/permissions#%E9%80%9A%E5%B8%B8%E6%A8%A9%E9%99%90:~:text=NC%3A%E5%85%AC%E5%BC%8FDiscord%E3%81%A7%E3%81%AE%E8%AA%8D%E8%A8%BC%E3%81%8C%E6%B8%88%E3%82%93%E3%81%A7%E3%81%AA%E3%81%84%E9%AF%96%E6%B0%91%E3%80%82)だと建築する際に保護しないと置けないという仕様があります。
+## WorldGuard(範囲保護)の保護方法
 
-## 詳しい使い方
+Step1. まず、金の斧を用意します。    <item-sprite name="golden-axe" :scale="1" />
 
-![保護例](https://i.imgur.com/tV9MBkq.jpg)
+Step2. 用意ができたら、保護する範囲を選択します。
 
-この建造物を保護したい場合、赤か青どっちかから左クリック、左クリックしてない方を、右クリックして、`//expand vert`を打って、`/rg claim <保護名>`と打てば保護してくれる有能プラグイン。
+- 始点を**左**クリック
+- 終点を**右**クリック
 
-## 保護の解説動画
+```plaintext
+この農場を保護する場合であれば、赤のブロックを左クリック、青のブロックを右クリックしてください。
+```
+
+![WorldEditの解説](https://i.imgur.com/k3F5gK6.png)
+
+Step3. コマンドを使い、保護します。
+
+まず始めに、`//expand vert`（**スラッシュ２つ注意**）というコマンドを入力し、実行します。
+
+```plaintext
+Wiki Editor's Tip
+このコマンドには、岩盤から建築高度上限まで保護範囲の高さを広げるという意味があります。
+```
+
+次に、`/rg claim <保護名>`というコマンドを入力し、実行します。
+
+これで保護完了です！
+手順は次の動画でも確認できます
+
+### 保護の解説動画
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TSzUAPYouX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+## BlockLocker(個別保護)の保護方法
+
+![BlockLockerの使用例](https://i.imgur.com/6PmoAHW.png)
+
+保護したいブロックに看板をつけるだけ！お手軽な簡易保護です。
+保護のカスタマイズなどは[BlockLockerの解説ページ](/plugin/blocklocker)を参照してください。
