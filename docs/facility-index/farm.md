@@ -45,7 +45,6 @@ sidebar: true
 | 公共サトウキビ畑 | gray27 | 新スポーン南 | [1520,2550](https://bluemap.freeserver.pro/#world:1524:64:2531:59:0.27:0.32:0:0:perspective) | |
 
 ### カボチャ
-<item-sprite name="pumpkin" :scale="1" />
 | 施設名 | 管理者 | 場所 | マップ | 備考 |
 | --- | --- | --- | --- | --- |
 | 公共農場 | gray27 | 新スポーン | [1527, 2291](https://bluemap.freeserver.pro/#world:1526:67:2292:39:0.45:0.47:0:0:perspective) | |
@@ -87,7 +86,6 @@ sidebar: true
 | 公共ウォート畑 | gray27 | 新スポーン北東 | [1640,2230](https://bluemap.freeserver.pro/#world:1640:67:2231:39:-0.01:0.13:0:0:perspective) | |
 
 ### コーラスフルーツ
-<item-sprite name="chorus-flower" :scale="1" />
 <item-sprite name="chorus-fruit" :scale="1" />
 | 施設名 | 管理者 | 場所 | マップ | 備考 |
 | --- | --- | --- | --- | --- |
