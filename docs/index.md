@@ -25,6 +25,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 ### 生活情報
 
 * [アイテムの入手可能場所](facility-index/)
+* [アイテムの受け渡し方](how-to/senditem)
 
 #### 交通情報
 
@@ -51,6 +52,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 ### 追加アイテム
 
 [追加アイテム一覧](item/)
+* [カスタムレシピ](custom-recipe)
 
 * [モンスターボール](item/monsterbowl)
 * [魔法のほうき](item/broom)
@@ -93,8 +95,6 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 * [投票](vote)
 * [寄付](donate)
-* [カスタムレシピ](custom-recipe)
-* [アイテムの受け渡し方](how-to/senditem)
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
