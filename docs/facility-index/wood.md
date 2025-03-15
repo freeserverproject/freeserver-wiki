@@ -25,7 +25,7 @@ sidebar: true
 ### 松
 - 新スポーン東方 [2150,2045](https://bluemap.freeserver.pro/#world:2143:89:2041:59:-1.37:0.49:0:0:perspective)
 ### ダークオーク
-
+- 新スポーン南方 [1560,2570](https://bluemap.freeserver.pro/#world:1564:75:2589:39:0.79:1.03:0:0:perspective)
 ### アカシア
 - 毛玉駅 [2788,66](https://bluemap.freeserver.pro/#world:2794:67:67:39:2.8:0.79:0:0:perspective)
 ### ジャングル
