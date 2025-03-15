@@ -25,6 +25,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 ### 生活情報
 
 * [アイテムの入手可能場所](facility-index/)
+* [アイテムの受け渡し方](how-to/senditem)
 
 #### 交通情報
 
@@ -51,6 +52,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 ### 追加アイテム
 
 [追加アイテム一覧](item/)
+* [カスタムレシピ](custom-recipe)
 
 * [モンスターボール](item/monsterbowl)
 * [魔法のほうき](item/broom)
@@ -75,7 +77,7 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 **[解説ページのあるプラグイン一覧](plugin/)**
 
-* **[保護の仕方](plugin/how-to-protect.md)**
+* **[保護の仕方](how-to/claim-region)**
 * **[WorldGuard](plugin/worldguard)**(土地保護PL)
 * **[BlockLocker](plugin/blocklocker)**(簡易保護PL)
 * **[Jobs](plugin/jobs)**(職業追加PL)
@@ -93,8 +95,6 @@ FREESERVER Wikiでは、FREESERVER Projectの運営している**Minecraftサー
 
 * [投票](vote)
 * [寄付](donate)
-* [カスタムレシピ](custom-recipe)
-* [アイテムの受け渡し方](how-to/senditem)
 * [このプロジェクトについて](about-project)
 * [このサーバーについて](about-server)
 * [このWikiについて](about-wiki)
