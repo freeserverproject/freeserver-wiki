@@ -5,4 +5,3 @@ dist
 cache
 .env
 public/sitemap.xml
-package-lock.json
