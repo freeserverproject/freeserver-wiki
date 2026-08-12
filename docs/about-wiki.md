@@ -29,8 +29,9 @@ description: "このFREESERVER Wiki!について"
 
 ## 略歴
 
-| 年  | 月  | 日  | 内容 |
-| -------- | ------- | ------- | -------- |
-|   2020   |11| 9 |   Wiki設立   |
-|              |    |21|  Wiki公開  |
-|   2021   |    5    |     4   |   WikiのエンジンをGrowiからVitePress+Netlify CMSに移行  |
+| 年 | 月 | 日 | 内容 |
+| - | - | - | - |
+| 2020 | 11 | 9 | Wiki設立 |
+| 2020 | 11 | 21 | Wiki公開 |
+| 2021 | 05 | 04 | WikiのエンジンをGrowiからVitePress+Netlify CMSに移行 |
+| 2025 | 02 | 02 | WikiのCDNをNetlifyからCloudflare Pagesに移行 |
